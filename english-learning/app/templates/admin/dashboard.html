@@ -1,0 +1,59 @@
+{% extends "admin/base.html" %}
+{% block title %}仪表盘{% endblock %}
+{% block page_title %}仪表盘{% endblock %}
+
+{% block content %}
+<div class="stat-grid">
+  <div class="stat-tile">
+    <span class="stat-value">{{ stats.words }}</span>
+    <span class="stat-label">单词总数</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ stats.lessons }}</span>
+    <span class="stat-label">课程总数</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ stats.categories }}</span>
+    <span class="stat-label">单词分类数</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ stats.users }}</span>
+    <span class="stat-label">注册用户</span>
+  </div>
+</div>
+
+<div class="panel-grid">
+  <div class="panel">
+    <h2>分类单词分布</h2>
+    <div class="bar-list">
+      {% for category, count in category_rows %}
+      <div class="bar-row" title="{{ category }}:{{ count }} 个单词">
+        <span class="bar-label">{{ category }}</span>
+        <span class="bar-track">
+          <span class="bar-fill" style="width: {{ (count / max_count * 100) | round(1) }}%"></span>
+        </span>
+        <span class="bar-value">{{ count }}</span>
+      </div>
+      {% else %}
+      <p class="empty-tip">还没有单词,快去添加吧</p>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>最近添加的单词</h2>
+    <table class="table-plain">
+      <thead>
+        <tr><th>英文</th><th>中文</th><th>分类</th></tr>
+      </thead>
+      <tbody>
+        {% for w in recent_words %}
+        <tr><td>{{ w.english }}</td><td>{{ w.chinese }}</td><td>{{ w.category }}</td></tr>
+        {% else %}
+        <tr><td colspan="3" class="empty-tip">还没有单词</td></tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}

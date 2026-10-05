@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}句子测验 · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <h1>句子测验</h1>
+  <p>看英文句子选中文意思,题库 1000 题(适合高考 / 四级),50 题一组;选组测验一轮做完一整组,完成后该组会打上 ✓ 已完成;中途退出会保存进度,下次点进该组接着做。</p>
+</section>
+
+<div class="quiz-box" id="quiz-box">
+  <!-- 开始界面:选组 -->
+  <div class="quiz-start" id="quiz-start">
+    <p>先选择题目范围,再开始答题:</p>
+    <div class="quiz-group-chips" id="quiz-group-chips"></div>
+    <p id="quiz-round-hint">全部随机:随机抽 10 题,答完立刻知道对错。</p>
+    <button class="btn btn-primary" id="btn-start">开始测验</button>
+  </div>
+
+  <!-- 答题界面 -->
+  <div class="quiz-question hidden" id="quiz-question">
+    <div class="quiz-meta">
+      <span>第 <span id="quiz-index">1</span> / <span id="quiz-total">10</span> 题</span>
+      <span id="quiz-group-name"></span>
+      <span>得分 <span id="quiz-score">0</span></span>
+      <button class="btn btn-sm btn-outline" id="btn-quit-round" title="退出后保存进度,下次接着做">退出本轮</button>
+    </div>
+    <div class="quiz-word-row">
+      <div class="quiz-word quiz-sentence" id="quiz-word"></div>
+      <button class="sound-btn" id="quiz-sound" aria-label="朗读句子">🔊</button>
+    </div>
+    <p class="quiz-hint">💡 点击句子里的单词可查看中文意思</p>
+    <div class="quiz-options" id="quiz-options"></div>
+    <div class="quiz-feedback hidden" id="quiz-feedback">
+      <p class="quiz-result" id="quiz-result"></p>
+      <button class="btn btn-primary" id="btn-next-question">下一题</button>
+    </div>
+  </div>
+
+  <!-- 结束界面 -->
+  <div class="quiz-end hidden" id="quiz-end">
+    <div class="quiz-end-score" id="quiz-final-score"></div>
+    <p id="quiz-final-message"></p>
+    <div class="quiz-end-buttons">
+      <button class="btn btn-primary hidden" id="btn-redo-wrong">重做错题</button>
+      <button class="btn btn-outline" id="btn-restart">再来一轮</button>
+      <button class="btn btn-outline" id="btn-back-groups">换一组</button>
+    </div>
+  </div>
+
+  <!-- 点词查义气泡(JS 定位) -->
+  <div class="word-pop hidden" id="word-pop"></div>
+</div>
+{% endblock %}

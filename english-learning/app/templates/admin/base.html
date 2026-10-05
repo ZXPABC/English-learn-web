@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}后台管理{% endblock %} · 轻松学英语</title>
+  <link rel="stylesheet" href="/static/css/admin.css?v=20261005">
+</head>
+<body>
+<div class="admin-layout">
+  <aside class="sidebar">
+    <div class="sidebar-brand">📚 轻松学英语</div>
+    <div class="sidebar-sub">后台管理</div>
+    <nav class="sidebar-nav">
+      <a href="/admin" class="{{ 'active' if active == 'dashboard' }}">📊 仪表盘</a>
+      <a href="/admin/words" class="{{ 'active' if active == 'words' }}">📖 单词管理</a>
+      <a href="/admin/lessons" class="{{ 'active' if active == 'lessons' }}">📚 课程管理</a>
+      <a href="/admin/users" class="{{ 'active' if active == 'users' }}">👥 用户管理</a>
+      <a href="/" target="_blank">🌐 查看前台</a>
+      <a href="/admin/logout">🚪 退出登录</a>
+    </nav>
+  </aside>
+
+  <main class="admin-main">
+    <header class="admin-topbar">
+      <span class="admin-title">{% block page_title %}{% endblock %}</span>
+      <span class="admin-user">👤 {{ admin.username }}</span>
+    </header>
+    <div class="admin-content">
+      {% block content %}{% endblock %}
+    </div>
+  </main>
+</div>
+
+<script src="/static/js/admin.js?v=20261005"></script>
+</body>
+</html>

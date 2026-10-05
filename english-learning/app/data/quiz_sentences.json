@@ -1,0 +1,5002 @@
+[
+ {
+  "english": "I can't breathe through my nose.",
+  "chinese": "我的鼻子没办法呼吸了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #318196 (CK) & #343677 (fucongcong)"
+ },
+ {
+  "english": "There are four people in my family.",
+  "chinese": "我家有四个人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #250572 (CK) & #904915 (Martha)"
+ },
+ {
+  "english": "I want to breathe some fresh air.",
+  "chinese": "我想呼吸一下新鲜空气。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #419075 (CK) & #889138 (Martha)"
+ },
+ {
+  "english": "You ought to be ashamed of yourself.",
+  "chinese": "你应该为你自己感到羞耻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #69098 (CK) & #907260 (Martha)"
+ },
+ {
+  "english": "That patient may die at any time.",
+  "chinese": "病人随时会死。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #48884 (CK) & #332829 (fucongcong)"
+ },
+ {
+  "english": "She returned the book to the library.",
+  "chinese": "她把书还给了图书馆。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #461914 (CK) & #894681 (Martha)"
+ },
+ {
+  "english": "I'd be thrilled to do that.",
+  "chinese": "我很乐意这么做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8369520 (CK) & #8753720 (slo_oth)"
+ },
+ {
+  "english": "You don't need to be there.",
+  "chinese": "你不必去那里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4135177 (CK) & #6111741 (verdastelo9604)"
+ },
+ {
+  "english": "I want you out of my room.",
+  "chinese": "我想让你离开我的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2012477 (CK) & #6393328 (verdastelo9604)"
+ },
+ {
+  "english": "I thought that it would be worse.",
+  "chinese": "我觉得会更糟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7173912 (CK) & #9961441 (GlossaMatik)"
+ },
+ {
+  "english": "Don't do this to me again.",
+  "chinese": "别再对我做这事了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2288921 (CK) & #6073901 (verdastelo9604)"
+ },
+ {
+  "english": "She survived her husband by ten years.",
+  "chinese": "她比丈夫多活十年。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #316775 (CM) & #9959029 (GlossaMatik)"
+ },
+ {
+  "english": "Which bed do you want to use?",
+  "chinese": "你想睡哪张床?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16477 (CK) & #775793 (Martha)"
+ },
+ {
+  "english": "I found your letter in the mailbox.",
+  "chinese": "我在信箱中发现了你的信件。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71515 (CK) & #805032 (Martha)"
+ },
+ {
+  "english": "You're not allowed in this room.",
+  "chinese": "你不能进这个房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2954964 (CK) & #5881201 (xjjAstrus)"
+ },
+ {
+  "english": "I love you more than anybody else.",
+  "chinese": "我爱你胜过其他任何一个人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8338243 (CK) & #846511 (kooler)"
+ },
+ {
+  "english": "He lives far away from his hometown.",
+  "chinese": "他住得离老家很远。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #296161 (CK) & #10048849 (GlossaMatik)"
+ },
+ {
+  "english": "We talked until two in the morning.",
+  "chinese": "我们聊到凌晨两点。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322013 (CK) & #900685 (Martha)"
+ },
+ {
+  "english": "Clean the window with a damp cloth.",
+  "chinese": "用湿布清洁窗户。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #35850 (Dejo) & #798040 (Martha)"
+ },
+ {
+  "english": "I'll stake my reputation on it.",
+  "chinese": "我赌上我的名声。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3728386 (CM) & #5624893 (verdastelo9604)"
+ },
+ {
+  "english": "I'm not feeling that hungry yet.",
+  "chinese": "我感觉还不是那么饿。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4764536 (Stalwartlover) & #4764565 (ryanwoo)"
+ },
+ {
+  "english": "My parents won't let me date.",
+  "chinese": "我父母不让我和男生约会。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1496250 (weihaiping) & #464776 (fucongcong)"
+ },
+ {
+  "english": "Every time it rains, the roof leaks.",
+  "chinese": "每次下雨屋顶就漏水。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #26858 (CK) & #780369 (Martha)"
+ },
+ {
+  "english": "The song reminds me of my home.",
+  "chinese": "这首歌让我想家了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49269 (CM) & #332873 (fucongcong)"
+ },
+ {
+  "english": "I don't want to work tomorrow.",
+  "chinese": "我明天不想上班。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6664953 (CK) & #11702402 (Jokubas)"
+ },
+ {
+  "english": "I like to drink natural mineral water.",
+  "chinese": "我喜欢喝天然的矿泉水。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #540113 (gracehero) & #6161733 (LeviHighway)"
+ },
+ {
+  "english": "He will be very busy next month.",
+  "chinese": "下个月他会很忙。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1430141 (CK) & #5091211 (mirrorvan)"
+ },
+ {
+  "english": "I want to travel around the world.",
+  "chinese": "我要环游世界。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #271162 (CK) & #875324 (Martha)"
+ },
+ {
+  "english": "I'm as tall as my father.",
+  "chinese": "我跟我父亲一样高。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261535 (CK) & #919735 (Martha)"
+ },
+ {
+  "english": "Why don't we order another round?",
+  "chinese": "我们再开一局吧。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9999230 (CK) & #13109974 (LeviHighway)"
+ },
+ {
+  "english": "He introduced me to a pretty girl.",
+  "chinese": "他把我介绍给了一个漂亮的女孩。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #303738 (CK) & #887761 (Martha)"
+ },
+ {
+  "english": "I'm not accustomed to such treatment.",
+  "chinese": "我不习惯这样的待遇。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253540 (CK) & #795267 (Martha)"
+ },
+ {
+  "english": "I suddenly thought of my dead mother.",
+  "chinese": "我忽然想起了我死去的妈妈。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259757 (CM) & #343382 (fucongcong)"
+ },
+ {
+  "english": "He wouldn't listen to my advice.",
+  "chinese": "他不听我的劝告。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #297941 (CK) & #848619 (Martha)"
+ },
+ {
+  "english": "Don't step on the broken glass.",
+  "chinese": "不要踩在碎玻璃上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21238 (CK) & #844442 (Martha)"
+ },
+ {
+  "english": "Monkeys can learn a lot of tricks.",
+  "chinese": "猴子能学会很多把戏。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25871 (CK) & #797092 (Martha)"
+ },
+ {
+  "english": "Shouting at your computer will not help.",
+  "chinese": "对你的电脑吼一点帮助也没有。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #682023 (Source_VOA) & #4071833 (egg0073)"
+ },
+ {
+  "english": "I'm the tallest in our class.",
+  "chinese": "我在班里是最高的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2713172 (CK) & #2028017 (ydcok)"
+ },
+ {
+  "english": "The store happened to be crowded yesterday.",
+  "chinese": "昨天这家商店正好人满为患。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #44878 (CK) & #9963137 (GlossaMatik)"
+ },
+ {
+  "english": "She scolded her son for being lazy.",
+  "chinese": "她骂她的儿子懒惰。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #274376 (CK) & #893349 (Martha)"
+ },
+ {
+  "english": "It rained three times during the trip.",
+  "chinese": "这次旅途下了三场雨。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #325589 (CM) & #7885785 (basilhan)"
+ },
+ {
+  "english": "I do not trust him any longer.",
+  "chinese": "我再也不相信他了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255797 (CK) & #478819 (biglion)"
+ },
+ {
+  "english": "I attached my signature to the document.",
+  "chinese": "我签署了文件。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258594 (CK) & #5542980 (egg0073)"
+ },
+ {
+  "english": "The sun doesn't shine at night.",
+  "chinese": "太阳在晚上不亮。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324012 (CK) & #6476292 (verdastelo9604)"
+ },
+ {
+  "english": "Put some more wood on the fire.",
+  "chinese": "再往火里添些木柴。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #31297 (CK) & #891731 (Martha)"
+ },
+ {
+  "english": "There are four members in my family.",
+  "chinese": "我家有四个人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #250571 (CK) & #904915 (Martha)"
+ },
+ {
+  "english": "The teacher gathered his students around him.",
+  "chinese": "老师把他的学生们聚集在他周围。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #273018 (CK) & #818958 (Martha)"
+ },
+ {
+  "english": "You don't need to do this.",
+  "chinese": "你不需要做这事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3358346 (CK) & #5574536 (verdastelo9604)"
+ },
+ {
+  "english": "My wife wants to adopt a child.",
+  "chinese": "我妻子想收养一个孩子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1413465 (CK) & #1415755 (sadhen)"
+ },
+ {
+  "english": "Don't put it on my desk.",
+  "chinese": "不要把它放在我的桌子上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25531 (CK) & #839533 (Martha)"
+ },
+ {
+  "english": "They furnished the library with new books.",
+  "chinese": "他们在图书馆装备了新的书籍。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #270691 (CK) & #818964 (Martha)"
+ },
+ {
+  "english": "They rent the car by the hour.",
+  "chinese": "他们按小时租车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #306758 (CK) & #13513758 (LeviHighway)"
+ },
+ {
+  "english": "Modern ships only need a small crew.",
+  "chinese": "现代船只只需要一小组的船员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #243793 (CM) & #796976 (Martha)"
+ },
+ {
+  "english": "I'm the owner of this house.",
+  "chinese": "我是这房子的主人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5243413 (CK) & #6064651 (verdastelo9604)"
+ },
+ {
+  "english": "He wants to pay off his loan.",
+  "chinese": "他想还清贷款。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2702127 (CK) & #5670769 (verdastelo9604)"
+ },
+ {
+  "english": "You can't count on their help.",
+  "chinese": "你不能指望他们的帮助。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #68064 (CK) & #1394852 (mtdot)"
+ },
+ {
+  "english": "I don't want to discuss it.",
+  "chinese": "我不想谈论这件事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2012639 (CK) & #4859514 (musclegirlxyp)"
+ },
+ {
+  "english": "Their goods are of the highest quality.",
+  "chinese": "他们的货品有着最高的品质。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2163183 (Source_VOA) & #2581556 (fenfang557)"
+ },
+ {
+  "english": "She won't be back till five.",
+  "chinese": "她五点前不会回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310190 (CK) & #917892 (Martha)"
+ },
+ {
+  "english": "I'm busy looking for an apartment.",
+  "chinese": "我正忙著找公寓。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261575 (CK) & #889559 (Martha)"
+ },
+ {
+  "english": "It rarely snows here in the winter.",
+  "chinese": "这里的冬天很少下雪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2782485 (CK) & #859330 (Martha)"
+ },
+ {
+  "english": "I'm sure you'll do great.",
+  "chinese": "我相信你会做的很棒的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2545279 (CK) & #6774613 (basilhan)"
+ },
+ {
+  "english": "He likes to smoke in the toilet.",
+  "chinese": "他喜欢在厕所里吸烟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1756017 (Amastan) & #5611529 (verdastelo9604)"
+ },
+ {
+  "english": "They're plotting to kill the king.",
+  "chinese": "他们正密谋要杀害国王。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9602010 (CK) & #905950 (Martha)"
+ },
+ {
+  "english": "I don't like to be alone.",
+  "chinese": "我不喜欢独处。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256058 (CK) & #826244 (Martha)"
+ },
+ {
+  "english": "I don't want to look stupid.",
+  "chinese": "我不想看起来傻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2587002 (Hybrid) & #6149001 (verdastelo9604)"
+ },
+ {
+  "english": "My car burns a lot of gas.",
+  "chinese": "我的车子很耗油。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #33554 (CK) & #894053 (Martha)"
+ },
+ {
+  "english": "I'm very worried about my weight.",
+  "chinese": "我很担心我的体重。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #616806 (CK) & #795270 (Martha)"
+ },
+ {
+  "english": "The clock gains five minutes a day.",
+  "chinese": "那个钟每天都快了五分钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #46992 (nickyeow) & #8591277 (easononizuka)"
+ },
+ {
+  "english": "Can you move this desk by yourself?",
+  "chinese": "你能自己搬这张桌子吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #27659 (CK) & #864450 (Martha)"
+ },
+ {
+  "english": "You can probably guess what happens though.",
+  "chinese": "但你很可能猜得到会发生什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1447 (Zifre) & #335049 (fucongcong)"
+ },
+ {
+  "english": "I can't find my umbrella anywhere.",
+  "chinese": "我任何地方都找不到我的伞。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #245011 (CK) & #849007 (Martha)"
+ },
+ {
+  "english": "I'd better be on my way.",
+  "chinese": "我该走了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #31406 (CK) & #8881109 (Rebecca)"
+ },
+ {
+  "english": "She left the hospital an hour ago.",
+  "chinese": "她一小时前离开了医院。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310090 (CK) & #344206 (fucongcong)"
+ },
+ {
+  "english": "I'm looking forward to your visit.",
+  "chinese": "我期待著您的光临。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252665 (CK) & #909849 (Martha)"
+ },
+ {
+  "english": "I'm hearing that a lot lately.",
+  "chinese": "我最近听说了不少。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3729849 (CM) & #5617240 (verdastelo9604)"
+ },
+ {
+  "english": "He placed the ladder against the fence.",
+  "chinese": "他把梯子倚著栅栏放。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #303517 (CK) & #882506 (Martha)"
+ },
+ {
+  "english": "Tomorrow, he will land on the moon.",
+  "chinese": "明天他会在月球降落。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1481 (brauliobezerra) & #8592711 (easononizuka)"
+ },
+ {
+  "english": "Coffee will be served after the meal.",
+  "chinese": "咖啡将会在餐后供应。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #268687 (CK) & #801414 (Martha)"
+ },
+ {
+  "english": "He can be proud of his father.",
+  "chinese": "他可以为自己的父亲而骄傲。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #457123 (FeuDRenais) & #9964375 (GlossaMatik)"
+ },
+ {
+  "english": "The doctor cured her of her disease.",
+  "chinese": "医生治好了她的病。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49623 (CK) & #335717 (fucongcong)"
+ },
+ {
+  "english": "There are some boys in the park.",
+  "chinese": "公园里有一些男孩子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240426 (CK) & #896755 (Martha)"
+ },
+ {
+  "english": "He asked for a drink of water.",
+  "chinese": "他要了水喝。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #300196 (CK) & #875375 (Martha)"
+ },
+ {
+  "english": "I anticipate that there will be trouble.",
+  "chinese": "我预料会有麻烦。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #243440 (CK) & #941094 (Martha)"
+ },
+ {
+  "english": "He weighs a lot more than before.",
+  "chinese": "他比以前重得多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #289007 (CK) & #782318 (fucongcong)"
+ },
+ {
+  "english": "I helped my brother move his desk.",
+  "chinese": "我帮我弟弟搬了他的书桌。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259571 (CK) & #877623 (Martha)"
+ },
+ {
+  "english": "I don't believe that ghosts exist.",
+  "chinese": "我不相信鬼魂存在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324437 (CK) & #848842 (Martha)"
+ },
+ {
+  "english": "I will play the guitar for you.",
+  "chinese": "我会为你弹吉他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252734 (CK) & #887904 (Martha)"
+ },
+ {
+  "english": "I'd like to rent a car.",
+  "chinese": "我想租一辆车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #29477 (CK) & #861007 (Martha)"
+ },
+ {
+  "english": "They don't always obey their parents.",
+  "chinese": "他们并不总是服从他们的父母。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #305514 (CK) & #793887 (Martha)"
+ },
+ {
+  "english": "You don't need to call me.",
+  "chinese": "你不必打电话给我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #611769 (CK) & #3629987 (suitchic)"
+ },
+ {
+  "english": "I like to listen to the radio.",
+  "chinese": "我喜欢听收音机。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255913 (CK) & #883401 (Martha)"
+ },
+ {
+  "english": "She left her gloves in the car.",
+  "chinese": "她把她的手套留在车上了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314820 (CK) & #891720 (Martha)"
+ },
+ {
+  "english": "She will be back within a week.",
+  "chinese": "她一周之内会回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310095 (CK) & #903044 (Martha)"
+ },
+ {
+  "english": "I'm really concerned about your future.",
+  "chinese": "我真的很关心你的未来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261765 (CK) & #796002 (Martha)"
+ },
+ {
+  "english": "His black coat blended into the darkness.",
+  "chinese": "他的黑色外套与黑暗融为一体。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #286325 (CK) & #13524049 (LeviHighway)"
+ },
+ {
+  "english": "There are more clouds today than yesterday.",
+  "chinese": "今天的云比昨天的多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #579741 (CK) & #795856 (Martha)"
+ },
+ {
+  "english": "I bet ten dollars on that horse.",
+  "chinese": "我在那匹马下十美元的赌注。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252961 (CK) & #882176 (Martha)"
+ },
+ {
+  "english": "Watch him and do what he does.",
+  "chinese": "看著他并跟著他做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #466162 (CK) & #903045 (Martha)"
+ },
+ {
+  "english": "She put the key in her pocket.",
+  "chinese": "她把钥匙放在她的口袋里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #313493 (CK) & #894050 (Martha)"
+ },
+ {
+  "english": "I found the key underneath the mat.",
+  "chinese": "我在擦鞋垫下面发现了这把钥匙。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255674 (CK) & #805038 (Martha)"
+ },
+ {
+  "english": "I want to talk to your boss.",
+  "chinese": "我想跟你老板谈。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3248560 (Hybrid) & #5551158 (verdastelo9604)"
+ },
+ {
+  "english": "You can't do anything about that.",
+  "chinese": "你什么也做不了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2904408 (CK) & #5701336 (verdastelo9604)"
+ },
+ {
+  "english": "Permit me to do that for you.",
+  "chinese": "请允许我为你做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8079070 (CK) & #9956929 (GlossaMatik)"
+ },
+ {
+  "english": "Don't worry about such a thing.",
+  "chinese": "不要担心这样的事情。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #41581 (CK) & #842324 (Martha)"
+ },
+ {
+  "english": "His mother looks young for her age.",
+  "chinese": "他妈妈看起来比实际年龄年轻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #285297 (CK) & #877664 (Martha)"
+ },
+ {
+  "english": "We are traveling on a tight budget.",
+  "chinese": "我们很节省地旅行。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324689 (CK) & #895647 (Martha)"
+ },
+ {
+  "english": "The principal wants to talk to you.",
+  "chinese": "校长想跟你谈话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1358628 (CK) & #5555771 (verdastelo9604)"
+ },
+ {
+  "english": "They guaranteed regular employment to their workers.",
+  "chinese": "他们对他们的员工保证就业。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #307689 (CK) & #801938 (Martha)"
+ },
+ {
+  "english": "I am the tallest in our class.",
+  "chinese": "我在班里是最高的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258029 (CK) & #2028017 (ydcok)"
+ },
+ {
+  "english": "You should put safety before everything else.",
+  "chinese": "你应该把安全放在其他一切之上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #24783 (CK) & #6109283 (verdastelo9604)"
+ },
+ {
+  "english": "Don't play baseball in the park.",
+  "chinese": "不要在公园玩垒球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240411 (CK) & #343964 (fucongcong)"
+ },
+ {
+  "english": "We don't care what he does.",
+  "chinese": "我们不在乎他做什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #283412 (CK) & #865434 (Martha)"
+ },
+ {
+  "english": "Are you a senior high school student?",
+  "chinese": "你是个高中生吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16152 (CK) & #775737 (Martha)"
+ },
+ {
+  "english": "I weighed myself on the bathroom scales.",
+  "chinese": "我用浴室的体重计量了体重。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324956 (CK) & #8730060 (crescat)"
+ },
+ {
+  "english": "What do you need this money for?",
+  "chinese": "你需要这些钱做什么?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #495643 (CK) & #903429 (Martha)"
+ },
+ {
+  "english": "I really don't need any help.",
+  "chinese": "我真的不需要帮助。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4779063 (garborg) & #4504355 (egg0073)"
+ },
+ {
+  "english": "How often do you feed the fish?",
+  "chinese": "你多久喂一次鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #19359 (CK) & #1223807 (tsayng)"
+ },
+ {
+  "english": "No words can express her deep sorrow.",
+  "chinese": "她的悲伤无法言喻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #591667 (saeb) & #332973 (fucongcong)"
+ },
+ {
+  "english": "He objected to his wife working outside.",
+  "chinese": "他反对妻子在外工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #296771 (CK) & #2080585 (sadhen)"
+ },
+ {
+  "english": "I'll call for you at three.",
+  "chinese": "我三点钟来接你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #72699 (CK) & #8884474 (Rebecca)"
+ },
+ {
+  "english": "He turned to his friends for help.",
+  "chinese": "他寻求他的朋友的帮助。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #304376 (CK) & #842306 (Martha)"
+ },
+ {
+  "english": "She may be proud of her daughter.",
+  "chinese": "她可以为她的女儿感到骄傲。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1697736 (shanghainese) & #1695396 (Venki)"
+ },
+ {
+  "english": "He may be on the next train.",
+  "chinese": "他可能在下一班火车上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #298435 (CK) & #793896 (Martha)"
+ },
+ {
+  "english": "You aren't allowed in this room.",
+  "chinese": "你不能进这个房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2583425 (CK) & #5881201 (xjjAstrus)"
+ },
+ {
+  "english": "I'm blind in the right eye.",
+  "chinese": "我的右眼瞎了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6873137 (CK) & #919860 (Martha)"
+ },
+ {
+  "english": "He will be back in ten minutes.",
+  "chinese": "他十分钟后会回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #288377 (CK) & #881220 (Martha)"
+ },
+ {
+  "english": "Would you like me to explain it?",
+  "chinese": "我为你解释一下好吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #272521 (CK) & #907895 (Martha)"
+ },
+ {
+  "english": "The cold weather lasted for three weeks.",
+  "chinese": "寒冷的天气持续了三个礼拜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2601669 (CK) & #2771113 (cienias)"
+ },
+ {
+  "english": "They asked for an increase of salary.",
+  "chinese": "他们要求加薪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #306355 (CM) & #9962358 (GlossaMatik)"
+ },
+ {
+  "english": "I want to be a computer programmer.",
+  "chinese": "我想做一个程序员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5901287 (peterius) & #1766408 (sadhen)"
+ },
+ {
+  "english": "I don't expect anything from you.",
+  "chinese": "我不指望从你身上得到什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2357 (CK) & #1776624 (sadhen)"
+ },
+ {
+  "english": "I'd like to change my reservation.",
+  "chinese": "我想更改我的预订。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324749 (CK) & #855686 (Martha)"
+ },
+ {
+  "english": "I don't care if it snows.",
+  "chinese": "我不在乎是否下雪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259032 (CK) & #846054 (Martha)"
+ },
+ {
+  "english": "The price does not include the box.",
+  "chinese": "这个价格不包含这个箱子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #325753 (CK) & #902969 (Martha)"
+ },
+ {
+  "english": "He works in a big city hospital.",
+  "chinese": "他在一间很大的市立医院工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301212 (CK) & #882987 (Martha)"
+ },
+ {
+  "english": "This broken vase can't be repaired.",
+  "chinese": "这个坏掉的花瓶无法修复了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59987 (Eldad) & #11762465 (mayun)"
+ },
+ {
+  "english": "I'm a student in a university.",
+  "chinese": "我是个大学生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1332122 (Eldad) & #2031433 (ydcok)"
+ },
+ {
+  "english": "I agree with your opinion about taxes.",
+  "chinese": "我同意你对于税的意见。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259004 (CK) & #887890 (Martha)"
+ },
+ {
+  "english": "I want something cold to drink now.",
+  "chinese": "我想现在喝冷的东西。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321814 (CK) & #889359 (Martha)"
+ },
+ {
+  "english": "Let me introduce my friends to you.",
+  "chinese": "我给你介绍介绍我的朋友。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9981711 (francaisr0wlet) & #3378090 (GlossaMatik)"
+ },
+ {
+  "english": "Don't ever touch my things again.",
+  "chinese": "不要再碰我的东西。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4717615 (xorgy) & #8784007 (slo_oth)"
+ },
+ {
+  "english": "I don't want anything to drink.",
+  "chinese": "我什么都不想喝。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256125 (CK) & #332566 (fucongcong)"
+ },
+ {
+  "english": "Never forget to put out the fire.",
+  "chinese": "永远不要忘记关火。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #23862 (CK) & #798280 (Martha)"
+ },
+ {
+  "english": "Let me introduce my mother to you.",
+  "chinese": "让我向你介绍我的母亲。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71029 (CK) & #890484 (Martha)"
+ },
+ {
+  "english": "We left the final decision to him.",
+  "chinese": "我们让他做最后的决定。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22966 (CK) & #905854 (Martha)"
+ },
+ {
+  "english": "Thank you in advance for your help.",
+  "chinese": "我先谢谢你的帮忙。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #54482 (kebukebu) & #396374 (fucongcong)"
+ },
+ {
+  "english": "I helped my mother in the kitchen.",
+  "chinese": "我在厨房里帮妈妈。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #275399 (CK) & #881556 (Martha)"
+ },
+ {
+  "english": "I don't drink coffee at all.",
+  "chinese": "我一点咖啡也不喝。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #921330 (riccioberto) & #8914626 (fresky)"
+ },
+ {
+  "english": "We are badly in need of food.",
+  "chinese": "我们非常需要食物。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #248896 (CK) & #336218 (fucongcong)"
+ },
+ {
+  "english": "Please help me fill out this form.",
+  "chinese": "请帮我填这张表格。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59061 (CK) & #894064 (Martha)"
+ },
+ {
+  "english": "Be sure to pick up some milk.",
+  "chinese": "务必要买一些牛奶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #318236 (CK) & #798217 (Martha)"
+ },
+ {
+  "english": "We can't let them do that.",
+  "chinese": "我们不能让他们那么做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3312782 (CK) & #5845598 (verdastelo9604)"
+ },
+ {
+  "english": "She found a job as a typist.",
+  "chinese": "她找到了一份打字员的工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #632477 (CK) & #804616 (Martha)"
+ },
+ {
+  "english": "I advertised my house in the newspaper.",
+  "chinese": "我在报纸上刊登了我的房子的广告。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258828 (CK) & #3043962 (sadhen)"
+ },
+ {
+  "english": "The batteries in my calculator are dead.",
+  "chinese": "我计算机的电池没电了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #684005 (bluepie88) & #777663 (Martha)"
+ },
+ {
+  "english": "I'd rather be poor than rich.",
+  "chinese": "我更愿意贫穷而不是富裕。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #708202 (papabear) & #1366060 (sadhen)"
+ },
+ {
+  "english": "It happened at a quarter past eleven.",
+  "chinese": "它发生在十一点一刻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #42838 (CK) & #798362 (Martha)"
+ },
+ {
+  "english": "I look forward to your next visit.",
+  "chinese": "我期待著您的再次光临。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #32656 (CK) & #889148 (Martha)"
+ },
+ {
+  "english": "I'm always busy with my homework.",
+  "chinese": "我总是忙于功课。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253141 (CK) & #850313 (Martha)"
+ },
+ {
+  "english": "We're used to staying up late.",
+  "chinese": "我们习惯熬夜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3361804 (CM) & #1746067 (sadhen)"
+ },
+ {
+  "english": "I am blind in the right eye.",
+  "chinese": "我的右眼瞎了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256128 (CK) & #919860 (Martha)"
+ },
+ {
+  "english": "I'm just worried about my weight.",
+  "chinese": "我只是担心我的体重。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #275258 (CK) & #1446950 (asosan)"
+ },
+ {
+  "english": "We don't want anything from you.",
+  "chinese": "我们不想从你身上要任何东西。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2642274 (CK) & #7781931 (jiangche)"
+ },
+ {
+  "english": "Please call me between seven and eight.",
+  "chinese": "请在7、8点之间打给我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7285462 (CK) & #343249 (fucongcong)"
+ },
+ {
+  "english": "I visited him a week ago today.",
+  "chinese": "我在一周前的今天拜访了他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #502835 (CK) & #881170 (Martha)"
+ },
+ {
+  "english": "Salt helps to preserve food from decay.",
+  "chinese": "盐可以帮助保存食物避免腐烂。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25752 (CK) & #798097 (Martha)"
+ },
+ {
+  "english": "I talked with her for an hour.",
+  "chinese": "我跟她谈了一个小时。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261106 (CK) & #881546 (Martha)"
+ },
+ {
+  "english": "I'm strongly opposed to a compromise.",
+  "chinese": "我强烈反对妥协",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4970631 (CK) & #12615419 (Enzo)"
+ },
+ {
+  "english": "I can't let you in here.",
+  "chinese": "我不能让你进来这里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7213065 (CK) & #7841404 (basilhan)"
+ },
+ {
+  "english": "What subjects do you like the best?",
+  "chinese": "你最喜欢什么科目?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320419 (CK) & #907897 (Martha)"
+ },
+ {
+  "english": "There are several ways to measure speed.",
+  "chinese": "测速的方法有很多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #274525 (CK) & #1413682 (sadhen)"
+ },
+ {
+  "english": "I thank you with all my heart.",
+  "chinese": "我衷心感谢您。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #436985 (lukaszpp) & #803835 (fucongcong)"
+ },
+ {
+  "english": "He will call for me about six.",
+  "chinese": "他六点左右要给我打电话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #282878 (CK) & #9959728 (GlossaMatik)"
+ },
+ {
+  "english": "The tower leaned slightly to the west.",
+  "chinese": "塔有点向西边倾斜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #279670 (CK) & #5868151 (xjjAstrus)"
+ },
+ {
+  "english": "We talked over the plan with him.",
+  "chinese": "我们和他谈了这个计划。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #23200 (CK) & #900708 (Martha)"
+ },
+ {
+  "english": "She always studies while listening to music.",
+  "chinese": "她总是边听音乐边念书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #388576 (CK) & #894308 (Martha)"
+ },
+ {
+  "english": "His influence extends all over the country.",
+  "chinese": "他的影响遍及全国。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #286902 (CK) & #6065350 (verdastelo9604)"
+ },
+ {
+  "english": "Do you like any of these pictures?",
+  "chinese": "你喜欢这些照片里的任何一张吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #55255 (CK) & #875309 (Martha)"
+ },
+ {
+  "english": "She played a tune on the piano.",
+  "chinese": "她在钢琴上弹了一首曲子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #312023 (CK) & #893036 (Martha)"
+ },
+ {
+  "english": "She achieved great success in her business.",
+  "chinese": "她在她的事业上取得了巨大成功。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314759 (CM) & #6109305 (verdastelo9604)"
+ },
+ {
+  "english": "The simplest solutions are always the best.",
+  "chinese": "解决问题最简便的方法往往是最好的办法。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4289992 (patgfisher) & #4859654 (musclegirlxyp)"
+ },
+ {
+  "english": "I am determined to be a scientist.",
+  "chinese": "我决心要成为一名科学家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #23981 (CK) & #926776 (Martha)"
+ },
+ {
+  "english": "I smell something burning in the kitchen.",
+  "chinese": "我闻到厨房里有东西烧焦了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #275403 (CK) & #13556629 (LeviHighway)"
+ },
+ {
+  "english": "You ought to ask him for advice.",
+  "chinese": "你应该向他征求意见。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #15832 (CK) & #1768155 (sadhen)"
+ },
+ {
+  "english": "She asked him to open the window.",
+  "chinese": "她要求他打开窗户。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #316319 (CK) & #894011 (Martha)"
+ },
+ {
+  "english": "Would you please look over my report?",
+  "chinese": "你可以仔细检查一下我的报告吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #776354 (CK) & #776968 (Martha)"
+ },
+ {
+  "english": "He visited her house the other day.",
+  "chinese": "他前几天拜访了她家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #273091 (CK) & #885412 (Martha)"
+ },
+ {
+  "english": "We want to clear up this problem.",
+  "chinese": "我们像澄清这个问题",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #249607 (CK) & #5973398 (zhangxr91)"
+ },
+ {
+  "english": "I can't remember any of it.",
+  "chinese": "我对这些都没有印象。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1954763 (CK) & #6307287 (gumblex)"
+ },
+ {
+  "english": "I'll call you up tomorrow morning.",
+  "chinese": "明天早上我会打电话给你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323205 (CK) & #857967 (Martha)"
+ },
+ {
+  "english": "That tall boy saved the drowning child.",
+  "chinese": "那个高个少年救了溺水儿童。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #67866 (CK) & #3630159 (suitchic)"
+ },
+ {
+  "english": "I play tennis an hour a day.",
+  "chinese": "我每天打一小时网球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39394 (CK) & #1446822 (asosan)"
+ },
+ {
+  "english": "Please be careful when crossing the street.",
+  "chinese": "过马路时请小心。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2592705 (WestofEden) & #5670773 (verdastelo9604)"
+ },
+ {
+  "english": "She likes to cook for her family.",
+  "chinese": "她喜欢为她的家人做饭。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #312868 (CK) & #334082 (fucongcong)"
+ },
+ {
+  "english": "I cut a branch from the tree.",
+  "chinese": "我从树上砍下了一根树枝。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #43807 (CK) & #926845 (Martha)"
+ },
+ {
+  "english": "Please move the desk to the left.",
+  "chinese": "请把桌子向左移。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #48838 (CK) & #2370640 (vicch)"
+ },
+ {
+  "english": "He earned his living as a teacher.",
+  "chinese": "他以教书为生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295355 (CK) & #883043 (Martha)"
+ },
+ {
+  "english": "The flood caused a lot of damage.",
+  "chinese": "洪水造成了很大的损害。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240922 (CK) & #907508 (Martha)"
+ },
+ {
+  "english": "The police will look into the case.",
+  "chinese": "警察会调查这起案件。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238230 (CM) & #2007049 (sadhen)"
+ },
+ {
+  "english": "I don't need to do anything.",
+  "chinese": "我什么都不用做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2361360 (CK) & #8463700 (gumblex)"
+ },
+ {
+  "english": "Wait until the light changes to green.",
+  "chinese": "等到灯变为绿色。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #268843 (CK) & #798046 (Martha)"
+ },
+ {
+  "english": "Short skirts are already out of fashion.",
+  "chinese": "短裙已经过时了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #388668 (CK) & #907889 (Martha)"
+ },
+ {
+  "english": "We're doing the best we can.",
+  "chinese": "我们尽力而为。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3311139 (CK) & #4760092 (ryanwoo)"
+ },
+ {
+  "english": "I want to talk with your uncle.",
+  "chinese": "我想跟你叔叔谈谈。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70572 (CK) & #875263 (Martha)"
+ },
+ {
+  "english": "He put his bag under the table.",
+  "chinese": "他把包放在桌子下面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7390616 (CH) & #11524950 (Attack_Infantry)"
+ },
+ {
+  "english": "She wants to work at the hospital.",
+  "chinese": "她想在医院工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1648480 (dimitris) & #7772582 (jiangche)"
+ },
+ {
+  "english": "I'd like to join your group.",
+  "chinese": "我想加入你们的团对。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71562 (CK) & #1446893 (asosan)"
+ },
+ {
+  "english": "Astronomy deals with the stars and planets.",
+  "chinese": "天文学涉及恒星和行星。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #278983 (CK) & #798253 (Martha)"
+ },
+ {
+  "english": "They're not afraid of hard work.",
+  "chinese": "他们不怕艰苦的工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #306162 (CK) & #868477 (Martha)"
+ },
+ {
+  "english": "She will accompany me on the piano.",
+  "chinese": "她会弹钢琴为我伴奏。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #308125 (CK) & #902958 (Martha)"
+ },
+ {
+  "english": "I'm just a regular office worker.",
+  "chinese": "我只是一个普通的上班族。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #477344 (CK) & #852157 (Martha)"
+ },
+ {
+  "english": "The oranges in this bag are rotten.",
+  "chinese": "这个袋子里的柳橙都烂了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57999 (CK) & #904919 (Martha)"
+ },
+ {
+  "english": "I want you to read this letter.",
+  "chinese": "我想你读一下这封信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257066 (CK) & #487728 (fucongcong)"
+ },
+ {
+  "english": "Don't be afraid of barking dogs.",
+  "chinese": "别怕吠犬。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321249 (CK) & #6089930 (verdastelo9604)"
+ },
+ {
+  "english": "He likes to cook for his family.",
+  "chinese": "他喜欢为家人做饭。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #294448 (CK) & #889623 (Martha)"
+ },
+ {
+  "english": "He would not agree to our proposal.",
+  "chinese": "他不同意我们的建议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #291948 (CK) & #781213 (Martha)"
+ },
+ {
+  "english": "We're traveling on a tight budget.",
+  "chinese": "我们用少的预算旅行。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6874191 (CK) & #895652 (Martha)"
+ },
+ {
+  "english": "She tends to be late for school.",
+  "chinese": "她往往会上学迟到。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #309948 (CK) & #890509 (Martha)"
+ },
+ {
+  "english": "He kicked the ball into the goal.",
+  "chinese": "他把球踢进了球门。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #292705 (CK) & #879139 (Martha)"
+ },
+ {
+  "english": "It seldom snows here in the winter.",
+  "chinese": "这里的冬天很少下雪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3316854 (CK) & #859330 (Martha)"
+ },
+ {
+  "english": "I would like to rent a car.",
+  "chinese": "我想租一辆车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #516606 (kebukebu) & #861007 (Martha)"
+ },
+ {
+  "english": "Don't let anyone press this button.",
+  "chinese": "别让任何人按这个按钮。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4664354 (CK) & #6147595 (verdastelo9604)"
+ },
+ {
+  "english": "Please call a taxi for this lady.",
+  "chinese": "请为这位女士叫辆出租车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #974197 (Skaty) & #867742 (kooler)"
+ },
+ {
+  "english": "I found the new magazine very interesting.",
+  "chinese": "我发现这本新杂志非常有趣。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252176 (CK) & #805029 (Martha)"
+ },
+ {
+  "english": "Move the chair nearer to the desk.",
+  "chinese": "把椅子挪一挪靠近桌子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #66452 (CK) & #798059 (Martha)"
+ },
+ {
+  "english": "I hope the economy picks up soon.",
+  "chinese": "我希望经济很快复苏起来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #237937 (CK) & #7769295 (jiangche)"
+ },
+ {
+  "english": "The picture looks better at a distance.",
+  "chinese": "这幅画远看更好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22072 (CK) & #336677 (fucongcong)"
+ },
+ {
+  "english": "I don't quite agree with you.",
+  "chinese": "我不太同意你的看法。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321761 (CK) & #846072 (Martha)"
+ },
+ {
+  "english": "He found the box under the table.",
+  "chinese": "他在桌子底下发现了这个盒子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #291810 (CK) & #887740 (Martha)"
+ },
+ {
+  "english": "She spread the butter on the bread.",
+  "chinese": "她把奶油涂在面包上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #312011 (CK) & #894414 (Martha)"
+ },
+ {
+  "english": "I hope he will wait for me.",
+  "chinese": "我希望他会等我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1265220 (yifen238) & #823004 (Martha)"
+ },
+ {
+  "english": "I appreciate your help in clarifying this.",
+  "chinese": "感谢你帮我解释明白。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59458 (CK) & #5655333 (verdastelo9604)"
+ },
+ {
+  "english": "I won't be home this afternoon.",
+  "chinese": "下午我不在家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #11849860 (ldegraaf) & #423411 (fucongcong)"
+ },
+ {
+  "english": "You should pay your rent in advance.",
+  "chinese": "你应该提前付租金。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9581 (CK) & #1780763 (sadhen)"
+ },
+ {
+  "english": "Car exhaust causes serious pollution in towns.",
+  "chinese": "汽车尾气在城镇里造成了严重的污染。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #265533 (CS) & #5715189 (verdastelo9604)"
+ },
+ {
+  "english": "We live in a three-bedroom house.",
+  "chinese": "我们住在一栋有三间卧室的房子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22892 (CK) & #871213 (Martha)"
+ },
+ {
+  "english": "She extended her stay by five days.",
+  "chinese": "她延长停留五天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315655 (CK) & #891010 (Martha)"
+ },
+ {
+  "english": "I'm starting to agree with you.",
+  "chinese": "我开始同意你的想法了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2541795 (CK) & #6114448 (verdastelo9604)"
+ },
+ {
+  "english": "I can do it without your help.",
+  "chinese": "没有你的帮忙我也能做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #866507 (papabear) & #918661 (Martha)"
+ },
+ {
+  "english": "I'm a junior high school student.",
+  "chinese": "我是个国中生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252301 (CK) & #881031 (Martha)"
+ },
+ {
+  "english": "We guarantee our products for one year.",
+  "chinese": "我们保证我们的产品一年。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320483 (CK) & #802016 (Martha)"
+ },
+ {
+  "english": "The baby seemed to be fast asleep.",
+  "chinese": "那个婴儿似乎在熟睡中。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #894479 (CK) & #8388809 (wangchou)"
+ },
+ {
+  "english": "I intend to study abroad next year.",
+  "chinese": "我打算明年出国留学。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262169 (CK) & #881261 (Martha)"
+ },
+ {
+  "english": "You're drinking out of my cup.",
+  "chinese": "你正在把我杯子里的东西喝掉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2422925 (CK) & #4845053 (pig8322)"
+ },
+ {
+  "english": "I wish he would write more often.",
+  "chinese": "我希望他来信更勤些。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #283305 (CK) & #336646 (fucongcong)"
+ },
+ {
+  "english": "He backed his car into the garage.",
+  "chinese": "他倒车入车库。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299045 (CK) & #887775 (Martha)"
+ },
+ {
+  "english": "I'm the captain of this ship.",
+  "chinese": "我是这船的船长。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1963117 (CK) & #6534764 (verdastelo9604)"
+ },
+ {
+  "english": "This might not be a genuine diamond.",
+  "chinese": "这可能不是真的钻石。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #788247 (hrin) & #781552 (Martha)"
+ },
+ {
+  "english": "I bumped into him at the station.",
+  "chinese": "我在车站碰到他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256263 (CK) & #881741 (Martha)"
+ },
+ {
+  "english": "Would you like me to help you?",
+  "chinese": "你要我帮你吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #246442 (CK) & #907326 (Martha)"
+ },
+ {
+  "english": "You're not as smart as me.",
+  "chinese": "你没有我聪明。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3500612 (Hybrid) & #5918305 (verdastelo9604)"
+ },
+ {
+  "english": "He invented an excuse for being late.",
+  "chinese": "他为他的迟到制造了一个借口。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301515 (CK) & #437302 (fucongcong)"
+ },
+ {
+  "english": "Jeans are now in fashion among girls.",
+  "chinese": "现在女生穿牛仔裤很流行。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #267214 (CM) & #346767 (fucongcong)"
+ },
+ {
+  "english": "I stayed with my uncle last week.",
+  "chinese": "我上周跟我叔叔住在一起。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259051 (CK) & #876746 (Martha)"
+ },
+ {
+  "english": "He proved to be an ideal husband.",
+  "chinese": "他被证实是个理想丈夫。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #304626 (CM) & #343979 (fucongcong)"
+ },
+ {
+  "english": "I'll clean up the kitchen later.",
+  "chinese": "我等一下将清理厨房。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240131 (CK) & #858820 (Martha)"
+ },
+ {
+  "english": "He may be jogging around the park.",
+  "chinese": "他可能在公园周围慢跑。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #296239 (CK) & #793903 (Martha)"
+ },
+ {
+  "english": "I'll boil the potatoes for you.",
+  "chinese": "我为你煮马铃薯。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #637462 (kebukebu) & #761285 (Martha)"
+ },
+ {
+  "english": "You should try to be more polite.",
+  "chinese": "你应该试著更有礼貌。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17646 (CK) & #902943 (Martha)"
+ },
+ {
+  "english": "We discussed a wide range of topics.",
+  "chinese": "我们谈论了各种各样的话题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #263015 (CK) & #1737932 (sadhen)"
+ },
+ {
+  "english": "Please remain seated for a few minutes.",
+  "chinese": "请坐一会。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #53407 (CK) & #8685595 (crescat)"
+ },
+ {
+  "english": "There won't be a next time.",
+  "chinese": "不会再有下次了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1624132 (fanty) & #794242 (fucongcong)"
+ },
+ {
+  "english": "We are both in the same class.",
+  "chinese": "我们两个同班。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #247818 (CK) & #895575 (Martha)"
+ },
+ {
+  "english": "I can't do without her help.",
+  "chinese": "没有她的帮助我做不到。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261280 (CK) & #919770 (Martha)"
+ },
+ {
+  "english": "He left his daughter a great fortune.",
+  "chinese": "他留给他女儿一大笔财产。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #304025 (CK) & #333797 (fucongcong)"
+ },
+ {
+  "english": "He lived to be eighty years old.",
+  "chinese": "他活到了八十岁。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #288651 (CK) & #889357 (Martha)"
+ },
+ {
+  "english": "There are some boys under the tree.",
+  "chinese": "树下有一些男孩。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323590 (CK) & #900219 (Martha)"
+ },
+ {
+  "english": "I hope that you are very well.",
+  "chinese": "我希望你很健康。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1243999 (Eldad) & #1397027 (mtdot)"
+ },
+ {
+  "english": "I'm a citizen of the world.",
+  "chinese": "我是世界公民。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1313351 (CM) & #2007054 (sadhen)"
+ },
+ {
+  "english": "I looked for him in the supermarket.",
+  "chinese": "我在超级市场里找他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253948 (CK) & #848695 (Martha)"
+ },
+ {
+  "english": "I am busy cooking at the moment.",
+  "chinese": "我此刻正忙著做饭。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257461 (CK) & #919957 (Martha)"
+ },
+ {
+  "english": "I don't trust him any more.",
+  "chinese": "我不再相信他了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #818058 (Cindrogriza) & #818148 (Martha)"
+ },
+ {
+  "english": "That company deals mainly in imported goods.",
+  "chinese": "这公司主要做进口货物的生意。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49070 (CK) & #6098455 (verdastelo9604)"
+ },
+ {
+  "english": "We talked about a variety of topics.",
+  "chinese": "我们谈了各种话题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #326579 (CK) & #895566 (Martha)"
+ },
+ {
+  "english": "Pigs share certain characteristics with human beings.",
+  "chinese": "猪与人类的一些特性相同。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #34357 (Swift) & #798054 (Martha)"
+ },
+ {
+  "english": "I'm now busy writing a book.",
+  "chinese": "我现在正忙于写一本书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257628 (CK) & #496690 (GlossaMatik)"
+ },
+ {
+  "english": "I learned a lot from his books.",
+  "chinese": "我从他的书学到了很多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260744 (CK) & #889645 (Martha)"
+ },
+ {
+  "english": "A dog followed me to my school.",
+  "chinese": "一只狗跟著我到我的学校。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #239107 (CK) & #868454 (Martha)"
+ },
+ {
+  "english": "The cold weather continued for three weeks.",
+  "chinese": "寒冷的天气持续了三个礼拜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21155 (CK) & #2771113 (cienias)"
+ },
+ {
+  "english": "I'm not as optimistic as you.",
+  "chinese": "我不像你那么乐观。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8586504 (CK) & #8589652 (tianblr)"
+ },
+ {
+  "english": "There used to be a bridge here.",
+  "chinese": "以前这里有一座桥。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #63676 (CK) & #896508 (Martha)"
+ },
+ {
+  "english": "I'll show you around the town.",
+  "chinese": "我会带你逛逛这个镇。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #277892 (CK) & #772106 (Martha)"
+ },
+ {
+  "english": "Put the book where you found it.",
+  "chinese": "把书放在你找到的地方。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #43896 (CK) & #894377 (Martha)"
+ },
+ {
+  "english": "Don't do anything like that again.",
+  "chinese": "不要再做那样的事情了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #72105 (CK) & #836405 (Martha)"
+ },
+ {
+  "english": "I don't like novels without heroes.",
+  "chinese": "我不喜欢没有英雄的小说。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #697823 (papabear) & #512879 (fucongcong)"
+ },
+ {
+  "english": "I may stay for another few days.",
+  "chinese": "我可能还要待几天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6337527 (CK) & #13107391 (maina)"
+ },
+ {
+  "english": "I don't want to drink anything.",
+  "chinese": "我什么都不想喝。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1477114 (weihaiping) & #332566 (fucongcong)"
+ },
+ {
+  "english": "He likes to listen to the radio.",
+  "chinese": "他喜欢听收音机。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #530149 (CK) & #846203 (Martha)"
+ },
+ {
+  "english": "I'd like to show you something.",
+  "chinese": "我有东西想给你看看。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1936362 (CK) & #8936287 (crescat)"
+ },
+ {
+  "english": "Japan depends on foreign countries for oil.",
+  "chinese": "日本依赖外国的石油。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #281564 (CK) & #798170 (Martha)"
+ },
+ {
+  "english": "Turn right at the first traffic light.",
+  "chinese": "在第一个信号灯处右转。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9518568 (CK) & #10005869 (Jeannie)"
+ },
+ {
+  "english": "I expected him to offer some help.",
+  "chinese": "我期待他提供一些帮助。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #263331 (CK) & #888049 (Martha)"
+ },
+ {
+  "english": "I'm very interested in these stories.",
+  "chinese": "我对这些故事很感兴趣。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6873003 (CK) & #1417547 (sadhen)"
+ },
+ {
+  "english": "I'd better do it right now.",
+  "chinese": "我这就该做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2544322 (CK) & #5900373 (verdastelo9604)"
+ },
+ {
+  "english": "You can do whatever you want to.",
+  "chinese": "你可以做任何你想做的事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17949 (CK) & #896375 (Martha)"
+ },
+ {
+  "english": "Cut the melon into six equal pieces.",
+  "chinese": "把瓜切成六等分。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49847 (CK) & #389419 (fucongcong)"
+ },
+ {
+  "english": "I'll try my best today, too.",
+  "chinese": "今天我也会努力的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1050547 (CK) & #1446913 (asosan)"
+ },
+ {
+  "english": "Don't talk with your mouth full.",
+  "chinese": "嘴里有东西的时候不准说话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #425588 (CM) & #335276 (fucongcong)"
+ },
+ {
+  "english": "I'm glad you guys are here.",
+  "chinese": "我很高兴你们都在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8462513 (CK) & #8463574 (gumblex)"
+ },
+ {
+  "english": "He would not listen to my advice.",
+  "chinese": "他不肯听我的劝告。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #297946 (CK) & #887811 (Martha)"
+ },
+ {
+  "english": "I'm sorry for the late response.",
+  "chinese": "我很抱歉回复晚了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1039687 (arashi_29) & #4468894 (MirendaBABY)"
+ },
+ {
+  "english": "She asked him to mail that letter.",
+  "chinese": "她请他寄那封信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #316261 (CK) & #894240 (Martha)"
+ },
+ {
+  "english": "I'd rather do it by myself.",
+  "chinese": "我更愿意自己做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1012701 (DanaDescalza) & #6145400 (verdastelo9604)"
+ },
+ {
+  "english": "It worried me that she looked pale.",
+  "chinese": "她虚弱的样子让我捏了一把汗。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #308389 (CK) & #1394890 (mtdot)"
+ },
+ {
+  "english": "You don't need to study today.",
+  "chinese": "你今天不必读书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #242975 (CK) & #866179 (Martha)"
+ },
+ {
+  "english": "He works with me at the office.",
+  "chinese": "他跟我在这间办公室一起工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #294636 (CK) & #880281 (Martha)"
+ },
+ {
+  "english": "I'm confident that you'll succeed.",
+  "chinese": "我肯定你会成功。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1293313 (CK) & #1328174 (vicch)"
+ },
+ {
+  "english": "Let me show you around our house.",
+  "chinese": "让我带你四处看看我们的房子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #24156 (CK) & #892570 (Martha)"
+ },
+ {
+  "english": "I can't lift my right arm.",
+  "chinese": "我无法举起我的右手臂。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #27046 (CK) & #848768 (Martha)"
+ },
+ {
+  "english": "I would like to become a poet.",
+  "chinese": "我想要成为诗人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4736799 (paper1n0) & #4262699 (egg0073)"
+ },
+ {
+  "english": "I arrived at the station on time.",
+  "chinese": "我准时到达了车站。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #264029 (CK) & #884177 (Martha)"
+ },
+ {
+  "english": "He lives in a world of fantasy.",
+  "chinese": "他住在一个奇幻世界里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295592 (CK) & #801969 (Martha)"
+ },
+ {
+  "english": "I don't believe it at all.",
+  "chinese": "我根本不信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5218439 (CK) & #6101308 (verdastelo9604)"
+ },
+ {
+  "english": "I'll be back in ten minutes.",
+  "chinese": "我10分钟后回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #73382 (CK) & #1446901 (asosan)"
+ },
+ {
+  "english": "Doctors refused to perform a second operation.",
+  "chinese": "医生们拒绝做第二次手术。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #28090 (CK) & #1467060 (sadhen)"
+ },
+ {
+  "english": "I finished reading the book last night.",
+  "chinese": "我昨晚看完了这本书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257823 (CK) & #883433 (Martha)"
+ },
+ {
+  "english": "I'd like to order drinks now.",
+  "chinese": "我现在想点饮料。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8338340 (CK) & #890970 (Martha)"
+ },
+ {
+  "english": "They guarantee this clock for a year.",
+  "chinese": "他们保证这个时钟可用一年。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58948 (CK) & #801932 (Martha)"
+ },
+ {
+  "english": "Would you like another piece of cake?",
+  "chinese": "你要再来一块蛋糕吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #31528 (CK) & #905220 (Martha)"
+ },
+ {
+  "english": "We measured the depth of the river.",
+  "chinese": "我们测量了这条河的深度。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #28842 (CK) & #10160409 (yeyue)"
+ },
+ {
+  "english": "Dark clouds are a sign of rain.",
+  "chinese": "乌云是下雨的征兆。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #28470 (Swift) & #410874 (fucongcong)"
+ },
+ {
+  "english": "It would appear that you're wrong.",
+  "chinese": "你似乎错了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2256273 (CM) & #2255112 (Venki)"
+ },
+ {
+  "english": "I don't sleep in a bed.",
+  "chinese": "我不在床上睡觉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2431669 (CK) & #7769300 (jiangche)"
+ },
+ {
+  "english": "Please show me what to do next.",
+  "chinese": "请告诉我下一步该做什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #264345 (CK) & #894366 (Martha)"
+ },
+ {
+  "english": "He left his glasses at our place.",
+  "chinese": "他把眼镜落在我们这里了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3085145 (patgfisher) & #5670764 (verdastelo9604)"
+ },
+ {
+  "english": "I'm sure that you'll succeed.",
+  "chinese": "我肯定你会成功。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1293311 (CK) & #1328174 (vicch)"
+ },
+ {
+  "english": "They will arrive a week from today.",
+  "chinese": "他们将于下个星期的今天抵达。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #307650 (CK) & #895024 (Martha)"
+ },
+ {
+  "english": "What on earth are you talking about?",
+  "chinese": "你到底在谈什么?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16783 (Fanki) & #775844 (Martha)"
+ },
+ {
+  "english": "You can use this computer any time.",
+  "chinese": "你可以随时使用这台电脑。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #66211 (CK) & #905848 (Martha)"
+ },
+ {
+  "english": "I finished writing the letter by noon.",
+  "chinese": "我中午前写完这封信了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259449 (CK) & #781128 (Martha)"
+ },
+ {
+  "english": "Everyone admires the pictures painted by him.",
+  "chinese": "每个人都很欣赏他所画的图画。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #32166 (CK) & #873439 (Martha)"
+ },
+ {
+  "english": "Watch him and do the same thing.",
+  "chinese": "看著他并且跟他做同样的事情。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #466160 (CK) & #900679 (Martha)"
+ },
+ {
+  "english": "I'm only here for one day.",
+  "chinese": "我只在这里待一天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2544692 (CK) & #9690015 (iMaple)"
+ },
+ {
+  "english": "I don't like swimming in pools.",
+  "chinese": "我不喜欢在泳池里游泳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #502703 (CK) & #846105 (Martha)"
+ },
+ {
+  "english": "The police are looking into the matter.",
+  "chinese": "警方正在调查。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238171 (CK) & #465886 (fucongcong)"
+ },
+ {
+  "english": "I opened the box and looked inside.",
+  "chinese": "我打开盒子看看里面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259923 (CK) & #875381 (Martha)"
+ },
+ {
+  "english": "I'll be back before lunch tomorrow.",
+  "chinese": "我会在明天午饭前回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8418563 (CK) & #9959075 (GlossaMatik)"
+ },
+ {
+  "english": "She backed her car into the garage.",
+  "chinese": "她倒车进车库。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314821 (CK) & #894043 (Martha)"
+ },
+ {
+  "english": "Our friendship will last a long time.",
+  "chinese": "我们的友情会长久留存。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #456565 (lukaszpp) & #6114391 (verdastelo9604)"
+ },
+ {
+  "english": "All the boys in class worked hard.",
+  "chinese": "课堂上所有的男生都很用功。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62918 (CK) & #874288 (Martha)"
+ },
+ {
+  "english": "He wants to be a tennis player.",
+  "chinese": "他想成为一名网球选手。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #291867 (CK) & #883278 (Martha)"
+ },
+ {
+  "english": "We do what we want to do.",
+  "chinese": "我们做我们想做的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5573320 (n1ls) & #5500523 (egg0073)"
+ },
+ {
+  "english": "The students of this school are kind.",
+  "chinese": "这个学校的学生很友好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59934 (CK) & #334983 (fucongcong)"
+ },
+ {
+  "english": "I'll be back at seven o'clock.",
+  "chinese": "我会在七点钟回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252621 (CK) & #885529 (Martha)"
+ },
+ {
+  "english": "You seem like a very smart person.",
+  "chinese": "你看起来像一个聪明人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4758228 (cairnhead) & #4764657 (ryanwoo)"
+ },
+ {
+  "english": "I'll pay you back next week.",
+  "chinese": "我下周去还你钱。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2543647 (CK) & #6316315 (xjjAstrus)"
+ },
+ {
+  "english": "We'll save a seat for you.",
+  "chinese": "我们会给你留个位置。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3241661 (CK) & #5931761 (verdastelo9604)"
+ },
+ {
+  "english": "It rained on and off all day.",
+  "chinese": "雨断断续续地下了一整天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #266395 (CK) & #886595 (Martha)"
+ },
+ {
+  "english": "He bumped his head against a post.",
+  "chinese": "他的头撞到了一根柱子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301561 (CK) & #889315 (Martha)"
+ },
+ {
+  "english": "Pick up the pencil from the floor.",
+  "chinese": "从地上捡起这支铅笔。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49467 (CK) & #798218 (Martha)"
+ },
+ {
+  "english": "I asked her to wait a moment.",
+  "chinese": "我请她等一会儿。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #411316 (CK) & #883294 (Martha)"
+ },
+ {
+  "english": "My mother opened the door very carefully.",
+  "chinese": "我妈妈小心翼翼地打开门。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4872152 (zvzuibqx) & #4859714 (musclegirlxyp)"
+ },
+ {
+  "english": "There are no clouds in the sky.",
+  "chinese": "天上没有云。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #425820 (CK) & #335530 (fucongcong)"
+ },
+ {
+  "english": "I'll be back by six o'clock.",
+  "chinese": "我将6点回来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262300 (CK) & #1446899 (asosan)"
+ },
+ {
+  "english": "Please find a solution to the problem.",
+  "chinese": "请找到问题的解决方法。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #632066 (Scott) & #791430 (fucongcong)"
+ },
+ {
+  "english": "I don't play tennis that well.",
+  "chinese": "我网球打得不那么好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8466243 (moarplease) & #472860 (fucongcong)"
+ },
+ {
+  "english": "A lot of people need our help.",
+  "chinese": "一些人需要我们的帮助。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3162203 (CK) & #13266795 (mimosawang)"
+ },
+ {
+  "english": "Would you please look after the children?",
+  "chinese": "你可以照顾一下孩子们吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #776350 (CK) & #776969 (Martha)"
+ },
+ {
+  "english": "I'm looking for some regular work.",
+  "chinese": "我在找一些固定工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #278459 (CK) & #802005 (Martha)"
+ },
+ {
+  "english": "I'm as hungry as a horse.",
+  "chinese": "我饿得像匹马。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321302 (CK) & #857838 (Martha)"
+ },
+ {
+  "english": "You should be ashamed of your ignorance.",
+  "chinese": "你应该为你的无知感到羞耻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16035 (CM) & #875063 (Martha)"
+ },
+ {
+  "english": "I can't play tennis that well.",
+  "chinese": "我不那么会打网球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1822957 (donkirkby) & #1423415 (cienias)"
+ },
+ {
+  "english": "We will only consent on that condition.",
+  "chinese": "我们只会在那样的条件下同意。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #46178 (CK) & #336875 (fucongcong)"
+ },
+ {
+  "english": "They are separated by a great distance.",
+  "chinese": "他们之间隔着很远的距离。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #876559 (AlanF_US) & #876558 (GlossaMatik)"
+ },
+ {
+  "english": "I guess it depends on the weather.",
+  "chinese": "我想这取决于天气。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #278891 (CK) & #801927 (Martha)"
+ },
+ {
+  "english": "That kind of person will definitely fail.",
+  "chinese": "这种人注定惨败。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1451934 (CK) & #2085614 (sadhen)"
+ },
+ {
+  "english": "I don't care what he does.",
+  "chinese": "我不在乎他做什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #283422 (CK) & #846264 (Martha)"
+ },
+ {
+  "english": "What a pity you can't dance!",
+  "chinese": "可惜你不会跳舞!",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #40319 (shanghainese) & #943692 (Martha)"
+ },
+ {
+  "english": "I'd rather you stayed at home.",
+  "chinese": "我宁愿你待在家里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71093 (CK) & #891161 (Martha)"
+ },
+ {
+  "english": "You'll find this map very useful.",
+  "chinese": "你会发现这张地图非常有用。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57908 (CK) & #865417 (Martha)"
+ },
+ {
+  "english": "I am dying for a cold drink.",
+  "chinese": "我迫切需要冷饮。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #326048 (CK) & #1450467 (asosan)"
+ },
+ {
+  "english": "Long skirts are out of fashion now.",
+  "chinese": "现在长裙过时了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #29317 (CK) & #893517 (Martha)"
+ },
+ {
+  "english": "She used to work for our company.",
+  "chinese": "她以前在我们公司工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310664 (CK) & #900683 (Martha)"
+ },
+ {
+  "english": "Would you pass me the salt, please?",
+  "chinese": "请你把盐递给我好吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25737 (CK) & #874216 (Martha)"
+ },
+ {
+  "english": "Can you save this seat for me?",
+  "chinese": "你可以帮我保留这个座位吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58208 (CK) & #866146 (Martha)"
+ },
+ {
+  "english": "Don't stand in front of me.",
+  "chinese": "不要站在我前面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7737778 (CK) & #8888273 (crescat)"
+ },
+ {
+  "english": "At night, she gazed at the moon.",
+  "chinese": "她在夜晚望著月亮。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #534152 (CK) & #872431 (Martha)"
+ },
+ {
+  "english": "He lives in that house over there.",
+  "chinese": "他住在那边的那间房子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #288708 (CK) & #883288 (Martha)"
+ },
+ {
+  "english": "This sofa can seat three people easily.",
+  "chinese": "这张沙发起码可以坐三个人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #60928 (CM) & #787292 (fucongcong)"
+ },
+ {
+  "english": "She greeted me with a big smile.",
+  "chinese": "她面带大大的笑容向我招呼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311901 (CK) & #802087 (Martha)"
+ },
+ {
+  "english": "She can play the piano very well.",
+  "chinese": "她可以把钢琴弹得很好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311781 (CK) & #894357 (Martha)"
+ },
+ {
+  "english": "People who break the law are punished.",
+  "chinese": "触犯法律的人受到惩罚。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321023 (CM) & #775468 (Martha)"
+ },
+ {
+  "english": "He consented to help the old lady.",
+  "chinese": "他同意帮助这位老太太。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #291386 (CK) & #889114 (Martha)"
+ },
+ {
+  "english": "I decided to try doing that myself.",
+  "chinese": "我决定自己试试看。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6728690 (CK) & #11984400 (corina)"
+ },
+ {
+  "english": "The recent advances in medicine are remarkable.",
+  "chinese": "医学的最新进展颇为显著。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1396442 (CK) & #2030806 (sadhen)"
+ },
+ {
+  "english": "Thank you for baking this delicious cake.",
+  "chinese": "谢谢你烤的美味蛋糕。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1716451 (Amastan) & #1990260 (sunnywqing)"
+ },
+ {
+  "english": "I always drink milk with my breakfast.",
+  "chinese": "我早餐一定会喝牛奶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #924144 (Scott) & #6774602 (basilhan)"
+ },
+ {
+  "english": "Apples are usually green, yellow, or red.",
+  "chinese": "苹果通常是绿色、黄色或红色。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2976130 (patgfisher) & #13539405 (LeviHighway)"
+ },
+ {
+  "english": "I put some cream in my coffee.",
+  "chinese": "我在我的咖啡里放了一些奶油。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62264 (CK) & #881753 (Martha)"
+ },
+ {
+  "english": "In my room, there are no clocks.",
+  "chinese": "我的房间里没有时钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1494456 (CS) & #8703965 (crescat)"
+ },
+ {
+  "english": "He betrayed her secret to his friends.",
+  "chinese": "他把她的秘密告诉了他的朋友。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #302828 (CK) & #334876 (fucongcong)"
+ },
+ {
+  "english": "She furnished the room with beautiful furniture.",
+  "chinese": "她用漂亮的家具布置了房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #316832 (CK) & #818967 (Martha)"
+ },
+ {
+  "english": "They looked as if they would cry.",
+  "chinese": "他们看起来好像要哭了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #306353 (CK) & #903634 (Martha)"
+ },
+ {
+  "english": "Stock prices plunged to a record low.",
+  "chinese": "股票价格跌至历史新低。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21212 (CK) & #798079 (Martha)"
+ },
+ {
+  "english": "We arrived here at six yesterday evening.",
+  "chinese": "昨天晚上六点钟我们来到了这里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #247956 (CK) & #2906688 (GlossaMatik)"
+ },
+ {
+  "english": "We all live in the same dorm.",
+  "chinese": "我们大家住在同一个宿舍。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3893117 (AlanF_US) & #12422348 (jkyochen)"
+ },
+ {
+  "english": "I agree with him on that point.",
+  "chinese": "我在那一个观点上同意他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321652 (CK) & #916667 (Martha)"
+ },
+ {
+  "english": "We managed to swim across the river.",
+  "chinese": "我们成功地游过了河。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262877 (CK) & #794075 (Martha)"
+ },
+ {
+  "english": "I'm not about to ask him.",
+  "chinese": "我不想要问他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #68132 (CK) & #795305 (Martha)"
+ },
+ {
+  "english": "I am quite ignorant of their plan.",
+  "chinese": "他们的计划我一无所知。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #305178 (CM) & #7835063 (basilhan)"
+ },
+ {
+  "english": "I majored in chemistry at the university.",
+  "chinese": "我在大学主修化学。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259324 (CK) & #795794 (Martha)"
+ },
+ {
+  "english": "He wiped the sweat from his face.",
+  "chinese": "他擦去了脸上的汗水。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #387581 (Mouseneb) & #366890 (fucongcong)"
+ },
+ {
+  "english": "I'm looking for my contact lens.",
+  "chinese": "我在找我的隐形眼镜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #54811 (CK) & #851542 (Martha)"
+ },
+ {
+  "english": "He graduated from high school this spring.",
+  "chinese": "今年春天他从高中毕业了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #289915 (CK) & #802091 (Martha)"
+ },
+ {
+  "english": "Don't talk to me like that.",
+  "chinese": "不要这样对我讲话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1860412 (CK) & #8463543 (gumblex)"
+ },
+ {
+  "english": "Young children are often fascinated by science.",
+  "chinese": "小孩常常对科学很有热情。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #681989 (Source_VOA) & #993751 (leoyzy)"
+ },
+ {
+  "english": "I am very concerned about his health.",
+  "chinese": "我很关心他的健康。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260590 (CK) & #5819693 (verdastelo9604)"
+ },
+ {
+  "english": "I like red wine better than white.",
+  "chinese": "我喜欢红葡萄酒胜过白葡萄酒。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259918 (CK) & #795851 (Martha)"
+ },
+ {
+  "english": "His wife opened the door for him.",
+  "chinese": "他的妻子为他开门了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #286372 (CK) & #889565 (Martha)"
+ },
+ {
+  "english": "Don't be late for school again.",
+  "chinese": "不要再上学迟到了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #72801 (CK) & #845436 (Martha)"
+ },
+ {
+  "english": "The cargo ship arrived four hours early.",
+  "chinese": "货船早到了四小时。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #846819 (avandivai) & #805147 (fucongcong)"
+ },
+ {
+  "english": "In the end, we reached a compromise.",
+  "chinese": "最后我们达成了协议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238660 (CM) & #779535 (Martha)"
+ },
+ {
+  "english": "You're one of my best friends.",
+  "chinese": "你是我最好的朋友之一。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7819722 (CK) & #1330057 (vicch)"
+ },
+ {
+  "english": "I'll be there in a minute.",
+  "chinese": "我马上就到了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #52275 (CK) & #397172 (GlossaMatik)"
+ },
+ {
+  "english": "I can recommend this book to you.",
+  "chinese": "我可以向你推荐这本书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253742 (CK) & #919731 (Martha)"
+ },
+ {
+  "english": "He helped the lady into the car.",
+  "chinese": "他帮助这位女士上车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #303261 (CK) & #889622 (Martha)"
+ },
+ {
+  "english": "He often stays up late at night.",
+  "chinese": "他经常在晚上熬夜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #293312 (CK) & #887827 (Martha)"
+ },
+ {
+  "english": "Everyone wanted a piece of the cake.",
+  "chinese": "每个人都想分一点蛋糕。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5392589 (CK) & #5611637 (verdastelo9604)"
+ },
+ {
+  "english": "We left home early in the morning.",
+  "chinese": "我们早上很早就离开家了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #249076 (CK) & #907532 (Martha)"
+ },
+ {
+  "english": "There are some apples on the table.",
+  "chinese": "桌上有些苹果。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3820394 (CK) & #11242984 (klzlueylx)"
+ },
+ {
+  "english": "This park reminds me of my childhood.",
+  "chinese": "来到这个公园会让我想起自己的童年。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59318 (CM) & #8738753 (crescat)"
+ },
+ {
+  "english": "I'm not particularly thirsty right now.",
+  "chinese": "我现在不特别渴。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2538918 (CK) & #5903468 (verdastelo9604)"
+ },
+ {
+  "english": "I wanted to show it to you.",
+  "chinese": "我想把它给你看。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17475 (CK) & #883036 (Martha)"
+ },
+ {
+  "english": "I love you more than anyone else.",
+  "chinese": "我爱你胜过其他任何一个人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #40332 (CK) & #846511 (kooler)"
+ },
+ {
+  "english": "These products are of the same quality.",
+  "chinese": "这些产品质量同等。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #55147 (CK) & #796862 (fucongcong)"
+ },
+ {
+  "english": "I don't remember any of it.",
+  "chinese": "我对这些都没有印象。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2361393 (CK) & #6307287 (gumblex)"
+ },
+ {
+  "english": "I thought it best to remain silent.",
+  "chinese": "我想最好还是保持沉默。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323679 (CK) & #889183 (Martha)"
+ },
+ {
+  "english": "Imagination affects every part of our lives.",
+  "chinese": "想像力影响着我们生活的各个方面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1230700 (alec) & #334165 (fucongcong)"
+ },
+ {
+  "english": "Don't fail to mail this letter.",
+  "chinese": "不要忘了寄这封信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58631 (CK) & #845942 (Martha)"
+ },
+ {
+  "english": "We hope you will enjoy the show.",
+  "chinese": "我们希望你喜欢这个表演。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #56271 (CK) & #759640 (Martha)"
+ },
+ {
+  "english": "I waited for him all day long.",
+  "chinese": "我等了他一整天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252495 (CK) & #876742 (Martha)"
+ },
+ {
+  "english": "I asked him to open the window.",
+  "chinese": "我请他把窗户打开。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #285115 (CK) & #881085 (Martha)"
+ },
+ {
+  "english": "We reached the top of the mountain.",
+  "chinese": "我们到达了山顶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #263049 (CK) & #908323 (Martha)"
+ },
+ {
+  "english": "I read the novel in three days.",
+  "chinese": "那部小说我看了三天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2388650 (AlanF_US) & #10157004 (yeyue)"
+ },
+ {
+  "english": "I really shouldn't stay any longer.",
+  "chinese": "我真的不应该再呆下去了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10983405 (CK) & #10983912 (Elaineeeeee)"
+ },
+ {
+  "english": "Don't do anything you'll regret.",
+  "chinese": "不要做任何会让你后悔的事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #671625 (darinmex) & #9473930 (jin1)"
+ },
+ {
+  "english": "My older sister plays the guitar well.",
+  "chinese": "我姐姐吉他弹得很好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #245570 (CK) & #4265136 (notabene)"
+ },
+ {
+  "english": "You're barking up the wrong tree.",
+  "chinese": "你白费力气了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #64791 (CK) & #781083 (Martha)"
+ },
+ {
+  "english": "He tends to be late for meetings.",
+  "chinese": "他开会往往会迟到。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #294610 (CK) & #880393 (Martha)"
+ },
+ {
+  "english": "Are there any apples in the box?",
+  "chinese": "箱子里有苹果吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #282643 (CK) & #874409 (Martha)"
+ },
+ {
+  "english": "That shouldn't be hard for you.",
+  "chinese": "你应该觉得不难。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3729162 (CM) & #5650437 (verdastelo9604)"
+ },
+ {
+  "english": "You look just like your big brother.",
+  "chinese": "你和你哥哥长得一模一样。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16743 (Swift) & #8850438 (morningstar)"
+ },
+ {
+  "english": "I want you to wait for me.",
+  "chinese": "我想让你等我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2012486 (CK) & #5842653 (verdastelo9604)"
+ },
+ {
+  "english": "She left her umbrella in the train.",
+  "chinese": "她把她的雨伞留在火车上了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315939 (CK) & #894360 (Martha)"
+ },
+ {
+  "english": "Remember to mail this letter tomorrow morning.",
+  "chinese": "明天早上记得去寄这封信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323172 (CK) & #894334 (Martha)"
+ },
+ {
+  "english": "I can seldom find time for reading.",
+  "chinese": "我很少能抽出时间看书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #249960 (CK) & #528036 (biglion)"
+ },
+ {
+  "english": "I listen to the radio every night.",
+  "chinese": "我每晚都听收音机。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261866 (CK) & #335408 (fucongcong)"
+ },
+ {
+  "english": "Please wait for me at the station.",
+  "chinese": "请在车站等我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #26092 (CK) & #891035 (Martha)"
+ },
+ {
+  "english": "I can do it without her help.",
+  "chinese": "没有她的帮忙我也能做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #866506 (papabear) & #918659 (Martha)"
+ },
+ {
+  "english": "Her birthday party will be tomorrow evening.",
+  "chinese": "她的生日宴会将在明天晚上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #508918 (CK) & #881266 (Martha)"
+ },
+ {
+  "english": "I don't belong to any club.",
+  "chinese": "我不属于任何社团。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255270 (CK) & #3158612 (cienias)"
+ },
+ {
+  "english": "Open your mouth and close your eyes.",
+  "chinese": "张开嘴巴闭上眼睛。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240557 (CK) & #1438441 (asosan)"
+ },
+ {
+  "english": "I might be a few minutes late.",
+  "chinese": "我可能要迟到几分钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1045149 (CK) & #1550564 (CLARET)"
+ },
+ {
+  "english": "She banged the table with her fist.",
+  "chinese": "她用拳头拍了桌子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #313459 (CK) & #894283 (Martha)"
+ },
+ {
+  "english": "We don't do it very often.",
+  "chinese": "我们不常做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5462948 (CK) & #5794111 (verdastelo9604)"
+ },
+ {
+  "english": "I'll only wait for three minutes.",
+  "chinese": "我只会等三分钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10070767 (CK) & #11231373 (klzlueylx)"
+ },
+ {
+  "english": "The train arrived ten minutes behind time.",
+  "chinese": "列车晚到了十分钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #326231 (CK) & #6128500 (verdastelo9604)"
+ },
+ {
+  "english": "I can neither confirm nor deny that.",
+  "chinese": "我既不能确认也不能否定。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2700655 (Hybrid) & #5933767 (verdastelo9604)"
+ },
+ {
+  "english": "Don't forget where you put it.",
+  "chinese": "不要忘记你放在哪里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #770241 (marloncori) & #770268 (Martha)"
+ },
+ {
+  "english": "She asked how to cook the fish.",
+  "chinese": "她问了怎么烧鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311177 (CK) & #408256 (fucongcong)"
+ },
+ {
+  "english": "I want you to stay here longer.",
+  "chinese": "我希望你留在这儿久一点。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257064 (CK) & #889558 (Martha)"
+ },
+ {
+  "english": "I don't believe such things exist.",
+  "chinese": "我不相信这样的事情存在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #41437 (CK) & #879200 (Martha)"
+ },
+ {
+  "english": "I found something interesting in the town.",
+  "chinese": "我发现了镇上一些有趣的事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #327851 (CK) & #805044 (Martha)"
+ },
+ {
+  "english": "She put the money in the bank.",
+  "chinese": "她把钱存在银行里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311184 (CK) & #5617166 (verdastelo9604)"
+ },
+ {
+  "english": "I can solve the problem by myself.",
+  "chinese": "我可以自己解决这个问题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #254712 (CK) & #889560 (Martha)"
+ },
+ {
+  "english": "You don't need to help me.",
+  "chinese": "你不用帮我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8456943 (Luiaard) & #8463637 (gumblex)"
+ },
+ {
+  "english": "Can we roller-skate in this park?",
+  "chinese": "我们可以在这个公园里玩四轮溜冰吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59332 (CK) & #844565 (Martha)"
+ },
+ {
+  "english": "He arrived in time for the meeting.",
+  "chinese": "他及时赶到了会议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #290617 (CK) & #887861 (Martha)"
+ },
+ {
+  "english": "There are some cookies in the jar.",
+  "chinese": "罐子里有一些饼干。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #32097 (CK) & #895191 (Martha)"
+ },
+ {
+  "english": "Children can't swim in this river.",
+  "chinese": "小孩儿不能在这条河里游泳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #245911 (CK) & #1397018 (mtdot)"
+ },
+ {
+  "english": "Would you like a cup of coffee?",
+  "chinese": "你要来杯咖啡吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62204 (CK) & #895192 (Martha)"
+ },
+ {
+  "english": "I almost always play baseball after school.",
+  "chinese": "我几乎总是在放学后打棒球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321963 (CK) & #918547 (Martha)"
+ },
+ {
+  "english": "I just wanted to check my email.",
+  "chinese": "我只想查一下我的电子邮件。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1488 (CK) & #334711 (fucongcong)"
+ },
+ {
+  "english": "He works hard all the year round.",
+  "chinese": "他一年到头努力工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #288455 (CK) & #888497 (Martha)"
+ },
+ {
+  "english": "Thank you for inviting me to dinner.",
+  "chinese": "谢谢你邀请我吃饭。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324609 (CK) & #1541584 (CLARET)"
+ },
+ {
+  "english": "She cut the apple with a knife.",
+  "chinese": "她用刀子切苹果。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311855 (CK) & #893537 (Martha)"
+ },
+ {
+  "english": "His second son married and settled down.",
+  "chinese": "他的第二个儿子结婚并定居下来了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #287280 (CK) & #794055 (Martha)"
+ },
+ {
+  "english": "He stayed there a couple of days.",
+  "chinese": "他在那里待了几天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #73005 (CK) & #887739 (Martha)"
+ },
+ {
+  "english": "The physician prescribed his patient some medicine.",
+  "chinese": "医生给他的病人开了一些药。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #27931 (CK) & #8650501 (slo_oth)"
+ },
+ {
+  "english": "He called me up almost every day.",
+  "chinese": "他几乎每天打电话给我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #303902 (CK) & #879188 (Martha)"
+ },
+ {
+  "english": "I asked her to wait a minute.",
+  "chinese": "我让她等了一分钟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321568 (CK) & #401003 (fucongcong)"
+ },
+ {
+  "english": "I returned the book to the library.",
+  "chinese": "我把书还给图书馆。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #418871 (CK) & #771080 (Martha)"
+ },
+ {
+  "english": "We're ready for the next step.",
+  "chinese": "我们准备好了走下一步。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2642829 (CK) & #6084406 (verdastelo9604)"
+ },
+ {
+  "english": "I want to be a baseball player.",
+  "chinese": "我想成为一名棒球运动员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262013 (CK) & #889381 (Martha)"
+ },
+ {
+  "english": "I really need to read all this.",
+  "chinese": "我真的需要把这都读了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #792987 (CM) & #794011 (fucongcong)"
+ },
+ {
+  "english": "His opinions aren't worth listening to.",
+  "chinese": "他的意见不值得听。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #435986 (CK) & #848852 (Martha)"
+ },
+ {
+  "english": "I read about him in the newspaper.",
+  "chinese": "我在报纸上读到有关他的消息。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258826 (CK) & #883311 (Martha)"
+ },
+ {
+  "english": "I'd be crazy to do that.",
+  "chinese": "我做那事会疯。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2546123 (CK) & #5911763 (verdastelo9604)"
+ },
+ {
+  "english": "I don't like early morning meetings.",
+  "chinese": "我不喜欢在清晨开的会议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2898125 (migl) & #770330 (Martha)"
+ },
+ {
+  "english": "It doesn't matter what you do.",
+  "chinese": "你做什么都无所谓。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3075212 (CK) & #5911620 (verdastelo9604)"
+ },
+ {
+  "english": "You seem to be waiting for somebody.",
+  "chinese": "你看来在等人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2712787 (CK) & #6145391 (verdastelo9604)"
+ },
+ {
+  "english": "You people are no fun at all.",
+  "chinese": "你们这帮人真没意思。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2821361 (CK) & #5945141 (verdastelo9604)"
+ },
+ {
+  "english": "I do not love him any longer.",
+  "chinese": "我已经不爱他了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255796 (CK) & #7772514 (jiangche)"
+ },
+ {
+  "english": "I'd like three pounds of chicken.",
+  "chinese": "我要三磅的鸡肉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #278225 (CK) & #859717 (Martha)"
+ },
+ {
+  "english": "I listened to some records last night.",
+  "chinese": "我昨晚听了一些唱片。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257826 (CK) & #881717 (Martha)"
+ },
+ {
+  "english": "Mastering a foreign language calls for patience.",
+  "chinese": "精通一种外语需要耐心。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21915 (CK) & #798045 (Martha)"
+ },
+ {
+  "english": "Don't forget to sign your name.",
+  "chinese": "不要忘记签上你的名字。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #321149 (CK) & #842455 (Martha)"
+ },
+ {
+  "english": "I rented a house with a garage.",
+  "chinese": "我租了一间有车库的房子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258413 (CK) & #888524 (Martha)"
+ },
+ {
+  "english": "The light changed from red to green.",
+  "chinese": "灯由红变绿。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #272443 (CK) & #900686 (Martha)"
+ },
+ {
+  "english": "I'd like to pay in cash.",
+  "chinese": "我想用现金支付。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39365 (CK) & #860986 (Martha)"
+ },
+ {
+  "english": "She put the magazine on the table.",
+  "chinese": "她把杂志放在桌上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39637 (CK) & #891755 (Martha)"
+ },
+ {
+  "english": "The dog followed me to my home.",
+  "chinese": "这只狗跟着我到了我家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #239187 (CK) & #9972431 (GlossaMatik)"
+ },
+ {
+  "english": "Coal and natural gas are natural fuels.",
+  "chinese": "煤和天然气是天然燃料。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #681036 (Source_VOA) & #899994 (kanaorange)"
+ },
+ {
+  "english": "She shut herself up in her room.",
+  "chinese": "她把自己关在房里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314724 (CK) & #512107 (fucongcong)"
+ },
+ {
+  "english": "Put some salt into the boiling water.",
+  "chinese": "放点盐到滚水里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #319874 (CK) & #797047 (Martha)"
+ },
+ {
+  "english": "Do your best in anything you do.",
+  "chinese": "你做任何事都要尽全力。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #30183 (CK) & #335275 (fucongcong)"
+ },
+ {
+  "english": "He asked her to call him later.",
+  "chinese": "他要求她稍后打电话给他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #302641 (CK) & #880249 (Martha)"
+ },
+ {
+  "english": "Japan imports various raw materials from abroad.",
+  "chinese": "日本从国外进口各种原料。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #281511 (CK) & #797051 (Martha)"
+ },
+ {
+  "english": "I agree with some of your opinions.",
+  "chinese": "我同意你一部分的意见。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17322 (CK) & #1397354 (mtdot)"
+ },
+ {
+  "english": "Everyone in the class climbed the hill.",
+  "chinese": "班上每个人都爬上了这个山坡。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62926 (CK) & #798322 (Martha)"
+ },
+ {
+  "english": "She found a ball in the garden.",
+  "chinese": "她在花园里发现了一颗球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315893 (CK) & #893536 (Martha)"
+ },
+ {
+  "english": "What do you usually do after dinner?",
+  "chinese": "你通常晚饭后做什么?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #66048 (CK) & #769682 (Martha)"
+ },
+ {
+  "english": "Don't be too sensitive to criticism.",
+  "chinese": "不要对批评太敏感了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #317780 (CK) & #335125 (fucongcong)"
+ },
+ {
+  "english": "You can't achieve anything without effort.",
+  "chinese": "没有什么是不劳而获的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6873382 (CK) & #334159 (fucongcong)"
+ },
+ {
+  "english": "There are fifty members in this club.",
+  "chinese": "这个俱乐部里有50个会员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #61181 (CK) & #1426462 (sadhen)"
+ },
+ {
+  "english": "It seems less crowded during the week.",
+  "chinese": "平日似乎比较不拥挤。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320165 (CK) & #796960 (Martha)"
+ },
+ {
+  "english": "The situation seemed very tense and dangerous.",
+  "chinese": "形势似乎非常紧张严峻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #807572 (Source_VOA) & #13285183 (Ayer)"
+ },
+ {
+  "english": "Those records are not accessible to the public.",
+  "chinese": "这些记录不对公众开放。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #48765 (CM) & #779008 (Martha)"
+ },
+ {
+  "english": "I don't plan to stay very long.",
+  "chinese": "我没有打算停留太久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7955166 (CK) & #6633881 (verdastelo9604)"
+ },
+ {
+  "english": "You're always as busy as a bee.",
+  "chinese": "你总是跟蜜蜂一样地忙碌。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9729410 (CK) & #845472 (Martha)"
+ },
+ {
+  "english": "I stayed up till very late last night.",
+  "chinese": "我昨晚睡得很晚。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257824 (CK) & #1446867 (asosan)"
+ },
+ {
+  "english": "The people here are accustomed to the cold.",
+  "chinese": "这里的人习惯了寒冷。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #279921 (CK) & #334406 (fucongcong)"
+ },
+ {
+  "english": "Only a fool would do something like that.",
+  "chinese": "傻瓜才会那么干。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8938632 (CK) & #8975245 (WilsonWong)"
+ },
+ {
+  "english": "I just talked to the person in charge.",
+  "chinese": "我刚跟主管人谈过。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2373988 (CK) & #5856749 (verdastelo9604)"
+ },
+ {
+  "english": "I just want to find out what happened.",
+  "chinese": "我只想弄清楚发生了什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3968258 (Hybrid) & #11706393 (Jokubas)"
+ },
+ {
+  "english": "I'm not a member of the club.",
+  "chinese": "我不是这个俱乐部的会员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3667481 (panamicua) & #4874078 (musclegirlxyp)"
+ },
+ {
+  "english": "Please wait until the end of this month.",
+  "chinese": "本月结束之前请等待。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #242011 (CK) & #2029468 (ydcok)"
+ },
+ {
+  "english": "I'm not sure of the exact date.",
+  "chinese": "我不知道确切的日期。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258970 (CK) & #891983 (Martha)"
+ },
+ {
+  "english": "I want it to be different this time.",
+  "chinese": "我想让这次变得不一样。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5194196 (CK) & #5698037 (verdastelo9604)"
+ },
+ {
+  "english": "I don't always do it that way.",
+  "chinese": "我没有总是这样做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6261236 (CK) & #13046537 (maina)"
+ },
+ {
+  "english": "I don't like to swim in pools.",
+  "chinese": "我不喜欢在泳池里游泳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #502705 (CK) & #846105 (Martha)"
+ },
+ {
+  "english": "I let my sister use my new computer.",
+  "chinese": "我让我妹妹用我的新电脑。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261775 (CK) & #390519 (fucongcong)"
+ },
+ {
+  "english": "I am looking forward to hearing from you.",
+  "chinese": "谨待复信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #63997 (CK) & #7753565 (Leolaaziano)"
+ },
+ {
+  "english": "Their apples aren't as tasty as ours.",
+  "chinese": "他们的苹果没有我们的好吃。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1580112 (fanty) & #4874063 (musclegirlxyp)"
+ },
+ {
+  "english": "He bent over backward to please his wife.",
+  "chinese": "他竭尽全力地讨好他老婆。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #296803 (CK) & #2516527 (fenfang557)"
+ },
+ {
+  "english": "The doctor advised him to do more exercise.",
+  "chinese": "医生建议他多做运动。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #27943 (CK) & #780065 (Martha)"
+ },
+ {
+  "english": "I do not doubt it in the least.",
+  "chinese": "我对此毫不怀疑。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258659 (Dejo) & #431728 (GlossaMatik)"
+ },
+ {
+  "english": "I will ask him about it tomorrow, then.",
+  "chinese": "那我明天会问他的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39345 (CK) & #473006 (fucongcong)"
+ },
+ {
+  "english": "We should approach this problem from different angles.",
+  "chinese": "我们应该用各种不同的角度看待此问题",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #23236 (CK) & #6842399 (hanksudo)"
+ },
+ {
+  "english": "I found it difficult to read the book.",
+  "chinese": "我发现读这本书很难。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #254657 (CK) & #334828 (fucongcong)"
+ },
+ {
+  "english": "My name doesn't appear on the list.",
+  "chinese": "我的名字没有出现在名单上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #251970 (CK) & #894039 (Martha)"
+ },
+ {
+  "english": "You should sleep for eight hours a day.",
+  "chinese": "你应该每天睡八个小时觉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1305895 (CM) & #1305894 (GlossaMatik)"
+ },
+ {
+  "english": "We stayed with them all through the summer.",
+  "chinese": "我们整个夏天都和他们待在一起。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #247743 (CK) & #333073 (fucongcong)"
+ },
+ {
+  "english": "I'll drop you off at the station.",
+  "chinese": "我载你到车站。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #26100 (CK) & #891648 (Martha)"
+ },
+ {
+  "english": "I don't like the way he talks.",
+  "chinese": "我不喜欢他讲话的样子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260780 (CK) & #887810 (Martha)"
+ },
+ {
+  "english": "You can stay here until the snow stops.",
+  "chinese": "你可以在这里等到雪停。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8986909 (CK) & #5382894 (egg0073)"
+ },
+ {
+  "english": "Don't put the cart before the horse.",
+  "chinese": "不要把马车放在马的前面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #282376 (CK) & #897280 (Martha)"
+ },
+ {
+  "english": "The students are all at their desks now.",
+  "chinese": "学生们现在都坐在桌前。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #271821 (CK) & #5581649 (verdastelo9604)"
+ },
+ {
+  "english": "There are lots of trees in the countryside.",
+  "chinese": "乡间有很多树。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4753808 (garborg) & #332921 (fucongcong)"
+ },
+ {
+  "english": "We don't need to attend that meeting.",
+  "chinese": "我们不必参加那场会议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #495640 (CK) & #905985 (Martha)"
+ },
+ {
+  "english": "I read the book from cover to cover.",
+  "chinese": "那本书我从头到尾看完了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #254656 (CK) & #8085395 (jenny5752)"
+ },
+ {
+  "english": "I don't want him to touch me.",
+  "chinese": "我不想被他感动。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260283 (CK) & #796701 (fucongcong)"
+ },
+ {
+  "english": "You need to pay extra for the batteries.",
+  "chinese": "电池要额外付钱。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #480055 (CM) & #464768 (fucongcong)"
+ },
+ {
+  "english": "I need some medicine to kill the pain.",
+  "chinese": "我需要用药来镇痛。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57811 (CK) & #333898 (fucongcong)"
+ },
+ {
+  "english": "I no longer wish to be your wife.",
+  "chinese": "我不想做你老婆了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8424535 (CK) & #8511421 (gumblex)"
+ },
+ {
+  "english": "I cheered myself up by listening to music.",
+  "chinese": "我借由听音乐来鼓舞我自己。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25400 (CK) & #919661 (Martha)"
+ },
+ {
+  "english": "You can reach the park by either road.",
+  "chinese": "哪条路都可以去公园哦。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #37940 (CK) & #10273855 (miaojiandao)"
+ },
+ {
+  "english": "I'm slow to adapt to new situations.",
+  "chinese": "我适应新环境很慢。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2173049 (erikspen) & #9526055 (jin1)"
+ },
+ {
+  "english": "Please don't forget to mail this letter.",
+  "chinese": "请不要忘记寄信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1243488 (CK) & #472932 (fucongcong)"
+ },
+ {
+  "english": "I used a knife to cut the cake.",
+  "chinese": "我是用刀切蛋糕的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2737516 (CM) & #2737435 (GlossaMatik)"
+ },
+ {
+  "english": "He asked her seven times to marry him.",
+  "chinese": "他向她求婚求了七次。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #875574 (CM) & #5907517 (verdastelo9604)"
+ },
+ {
+  "english": "She enjoyed herself a lot at the party.",
+  "chinese": "她在聚会上玩得很开心。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #311936 (CK) & #779014 (Martha)"
+ },
+ {
+  "english": "That kind of person will fail for sure.",
+  "chinese": "这种人注定惨败。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1451935 (CK) & #2085614 (sadhen)"
+ },
+ {
+  "english": "We are sorry we can't help you.",
+  "chinese": "我们很遗憾没能帮助你们。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262696 (CK) & #4084073 (sadhen)"
+ },
+ {
+  "english": "I don't need you or anybody else.",
+  "chinese": "我不需要你或别的人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2322781 (CK) & #5780611 (verdastelo9604)"
+ },
+ {
+  "english": "The doctor will be here in a minute.",
+  "chinese": "医生马上就来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #954343 (CK) & #6131495 (verdastelo9604)"
+ },
+ {
+  "english": "You're not supposed to be here now.",
+  "chinese": "你现在不应该在这里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2835621 (CK) & #9959038 (GlossaMatik)"
+ },
+ {
+  "english": "I'm looking forward to hearing from you.",
+  "chinese": "我期待收到您的来信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17944 (CK) & #894168 (Martha)"
+ },
+ {
+  "english": "I played tennis for the first time yesterday.",
+  "chinese": "昨天我第一次打了网球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7681636 (potatoindespair) & #335891 (fucongcong)"
+ },
+ {
+  "english": "We can't force people to do that.",
+  "chinese": "我们不能强迫人去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5553851 (CK) & #6534047 (verdastelo9604)"
+ },
+ {
+  "english": "She succeeded in drawing the truth from him.",
+  "chinese": "她成功地从他口中得知了真相。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310550 (CK) & #8765258 (crescat)"
+ },
+ {
+  "english": "I used to play tennis in high school.",
+  "chinese": "我高中时曾打网球",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #241266 (CK) & #5975069 (zhangxr91)"
+ },
+ {
+  "english": "I enjoyed talking with him at the party.",
+  "chinese": "聚会上我和他谈得很愉快。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260185 (CK) & #1438463 (asosan)"
+ },
+ {
+  "english": "I'm looking for a part-time job.",
+  "chinese": "我正在找一份兼职的工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #35527 (CK) & #861478 (Martha)"
+ },
+ {
+  "english": "I want to just focus on the positive.",
+  "chinese": "我只想注意积极方面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5193450 (CK) & #5631888 (verdastelo9604)"
+ },
+ {
+  "english": "We want you to be the team captain.",
+  "chinese": "我们要你做队长。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2016976 (CK) & #10871964 (gli315400)"
+ },
+ {
+  "english": "I won't allow you to do that.",
+  "chinese": "我不会让你去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2713178 (CK) & #5856778 (verdastelo9604)"
+ },
+ {
+  "english": "I just wanted you to look at this.",
+  "chinese": "我就是想让你看看这个。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2374130 (CK) & #8500033 (maxine)"
+ },
+ {
+  "english": "Don't show your face around here again.",
+  "chinese": "你不要再出现在这里了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #541986 (CK) & #889626 (Martha)"
+ },
+ {
+  "english": "I'm waiting for the store to open.",
+  "chinese": "我正等著这家店开门。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6873034 (CK) & #785172 (Martha)"
+ },
+ {
+  "english": "I can't tolerate this noise any longer.",
+  "chinese": "我不能再忍受这个噪音了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58021 (CK) & #920110 (Martha)"
+ },
+ {
+  "english": "The sky cleared up soon after the storm.",
+  "chinese": "风暴之后不久,天空就晴朗起来了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #325288 (CK) & #1878418 (sadhen)"
+ },
+ {
+  "english": "She read an amusing story to the children.",
+  "chinese": "她给孩子们读了个有趣的故事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #313953 (CK) & #5978344 (verdastelo9604)"
+ },
+ {
+  "english": "I'm currently a teacher at this school.",
+  "chinese": "我现在在这所学校任教。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2149796 (CM) & #1766187 (sadhen)"
+ },
+ {
+  "english": "I'm not as optimistic as you are.",
+  "chinese": "我不像你那么乐观。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8586015 (CK) & #8589652 (tianblr)"
+ },
+ {
+  "english": "I'm ready to do anything for you.",
+  "chinese": "我甘心为你做任何事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10151510 (CK) & #794001 (fucongcong)"
+ },
+ {
+  "english": "The kids are picking flowers in the garden.",
+  "chinese": "孩子们正在花园里摘花。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #246075 (CK) & #3493409 (GlossaMatik)"
+ },
+ {
+  "english": "She works as hard as any other student.",
+  "chinese": "她和其他学生一样努力。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315616 (CK) & #13573451 (LeviHighway)"
+ },
+ {
+  "english": "I'm waiting for you to help me.",
+  "chinese": "我等着你帮我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3652065 (karloelkebekio) & #8592712 (easononizuka)"
+ },
+ {
+  "english": "I still can't believe you're married.",
+  "chinese": "我仍然无法相信你结婚了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2406591 (CK) & #5496247 (egg0073)"
+ },
+ {
+  "english": "I can't reach that can of tomatoes.",
+  "chinese": "我搆不到那罐番茄罐头。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2258732 (_undertoad) & #3742398 (egg0073)"
+ },
+ {
+  "english": "He passed his property on to his son.",
+  "chinese": "他把他的财产传给了他儿子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #296846 (CM) & #847881 (fucongcong)"
+ },
+ {
+  "english": "We yawn when we are short of oxygen.",
+  "chinese": "我们缺氧时就会打哈欠。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22954 (CK) & #10460425 (GlossaMatik)"
+ },
+ {
+  "english": "You're welcome to do anything you like.",
+  "chinese": "您可以做任何您想做的事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8980322 (CK) & #4265087 (notabene)"
+ },
+ {
+  "english": "He picked up something white on the street.",
+  "chinese": "他从路上捡起一样白色的东西。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301681 (CM) & #11989559 (corina)"
+ },
+ {
+  "english": "The prize won't be given to her.",
+  "chinese": "奖项是不会授给她的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #46251 (CK) & #7768183 (jiangche)"
+ },
+ {
+  "english": "She left her son alone in the car.",
+  "chinese": "她把她儿子忘在车里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315602 (CK) & #2469529 (GlossaMatik)"
+ },
+ {
+  "english": "She picked up one of the glass vases.",
+  "chinese": "她拿了其中一个玻璃花瓶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310685 (CK) & #333406 (fucongcong)"
+ },
+ {
+  "english": "You don't need to answer that letter.",
+  "chinese": "没有必要回那封信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #495675 (CK) & #891987 (Martha)"
+ },
+ {
+  "english": "I don't want any milk at all.",
+  "chinese": "我完全不要牛奶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7492548 (CK) & #881275 (Martha)"
+ },
+ {
+  "english": "It hardly ever snows here in the winter.",
+  "chinese": "这里的冬天很少下雪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2782486 (CK) & #859330 (Martha)"
+ },
+ {
+  "english": "My older sister often drinks tea with milk.",
+  "chinese": "我的姐姐经常就着牛奶喝茶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #32222 (Scott) & #6047440 (verdastelo9604)"
+ },
+ {
+  "english": "I'm opposed to any type of war.",
+  "chinese": "我反对任何形式的战争。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255307 (CK) & #893501 (Martha)"
+ },
+ {
+  "english": "We'll be here for three more days.",
+  "chinese": "我们还要在这里待三天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3424224 (CK) & #6931232 (verdastelo9604)"
+ },
+ {
+  "english": "I'm a member of the tennis club.",
+  "chinese": "我是网球俱乐部的会员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255084 (Eldad) & #332450 (fucongcong)"
+ },
+ {
+  "english": "A fool and his money are soon parted.",
+  "chinese": "笨蛋难聚财。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #18360 (CK) & #806653 (Martha)"
+ },
+ {
+  "english": "I like spring the best of the seasons.",
+  "chinese": "春天是我最喜欢的季节。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256805 (CM) & #781108 (Martha)"
+ },
+ {
+  "english": "The elevator seems to be out of order.",
+  "chinese": "电梯好像故障了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #50620 (Tximist) & #791432 (fucongcong)"
+ },
+ {
+  "english": "He received quite a few letters this morning.",
+  "chinese": "今天早上他收到好多信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1316331 (CK) & #343416 (fucongcong)"
+ },
+ {
+  "english": "I still prefer to write letters by hand.",
+  "chinese": "我更喜欢用手写信。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1798891 (Amastan) & #5617192 (verdastelo9604)"
+ },
+ {
+  "english": "The policeman seized the boy by the arm.",
+  "chinese": "警察抓住了那个男孩的手臂。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238392 (CK) & #2255113 (Venki)"
+ },
+ {
+  "english": "The boy carved his name on the tree.",
+  "chinese": "男孩把他的名字刻在树上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #268049 (CK) & #3487188 (GlossaMatik)"
+ },
+ {
+  "english": "She called me up very late last night.",
+  "chinese": "昨晚她很晚打电话给我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #313847 (CK) & #423403 (fucongcong)"
+ },
+ {
+  "english": "My boss assigned the hard job to me.",
+  "chinese": "我老板把艰巨的任务指派给了我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #268319 (CM) & #334615 (fucongcong)"
+ },
+ {
+  "english": "I don't blame you for doing that.",
+  "chinese": "我不怪你那样做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #18020 (CK) & #887748 (Martha)"
+ },
+ {
+  "english": "The black telephone costs more than the white.",
+  "chinese": "黑的电话比白的花钱多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #462580 (lukaszpp) & #5900386 (verdastelo9604)"
+ },
+ {
+  "english": "I can't stand that kind of politician.",
+  "chinese": "我不能忍受那种政治家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #421988 (CK) & #883034 (Martha)"
+ },
+ {
+  "english": "He realized his dream of becoming an artist.",
+  "chinese": "他实现了当兿术家的梦想。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295765 (CM) & #6159155 (verdastelo9604)"
+ },
+ {
+  "english": "The government should invest more money in agriculture.",
+  "chinese": "政府应该加大对农业的投资。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1210696 (CK) & #2515316 (fenfang557)"
+ },
+ {
+  "english": "I almost left my umbrella in the train.",
+  "chinese": "我几乎把我的雨伞忘在火车上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #279188 (CK) & #727495 (Martha)"
+ },
+ {
+  "english": "They knocked down a part of the wall.",
+  "chinese": "他们拆掉了一部分墙。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7794244 (sharris123) & #884584 (Tajfun)"
+ },
+ {
+  "english": "Don't judge a book by its cover.",
+  "chinese": "不要根据封面来判断一本书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322083 (CK) & #406728 (fucongcong)"
+ },
+ {
+  "english": "I will do the shopping for her birthday.",
+  "chinese": "我要去给她生日买点东西。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #309566 (Dejo) & #343796 (fucongcong)"
+ },
+ {
+  "english": "Don't talk to others during the class.",
+  "chinese": "上课中不要跟别人讲话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #263657 (CK) & #881681 (Martha)"
+ },
+ {
+  "english": "I'd like my coffee after the meal.",
+  "chinese": "我想吃完饭再喝咖啡。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62188 (CK) & #892488 (Martha)"
+ },
+ {
+  "english": "He towers above the rest of the class.",
+  "chinese": "他在班上出类拔萃。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #289752 (CM) & #874191 (Martha)"
+ },
+ {
+  "english": "I'll try to find them for you.",
+  "chinese": "我会努力帮你找到他们。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3918178 (CK) & #5794142 (verdastelo9604)"
+ },
+ {
+  "english": "You will be sorry for it some day.",
+  "chinese": "有一天这会让你遗憾的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70213 (CM) & #7769164 (jiangche)"
+ },
+ {
+  "english": "I can't figure out what he means.",
+  "chinese": "我不懂他的意思。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #38379 (CK) & #875343 (Martha)"
+ },
+ {
+  "english": "I'd like to reserve a hotel room.",
+  "chinese": "我想要订房。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #599205 (Dejo) & #794165 (fucongcong)"
+ },
+ {
+  "english": "I often look up words in that dictionary.",
+  "chinese": "我经常用那本词典找单词。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1194172 (CK) & #8756336 (crescat)"
+ },
+ {
+  "english": "I'm sorry to put you through that.",
+  "chinese": "很抱歉让你遭这罪。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2444408 (fenfang557) & #2444409 (fenfang557)"
+ },
+ {
+  "english": "My older brother lives in a small village.",
+  "chinese": "我哥住在一座小村庄里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10027744 (Cabo) & #10252141 (GlossaMatik)"
+ },
+ {
+  "english": "I don't want to open the window.",
+  "chinese": "我不想打开窗户。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5263806 (dynamo) & #2824763 (GlossaMatik)"
+ },
+ {
+  "english": "Don't put your elbows on the table.",
+  "chinese": "不要把你的手肘放在桌子上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39635 (CK) & #875262 (Martha)"
+ },
+ {
+  "english": "I can't help feeling sorry for him.",
+  "chinese": "我不禁为他感到难过。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260912 (CK) & #785242 (Martha)"
+ },
+ {
+  "english": "I'd like to check out right now.",
+  "chinese": "我想现在结帐离开。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #241643 (CK) & #801386 (Martha)"
+ },
+ {
+  "english": "Elephants are the largest land animals alive today.",
+  "chinese": "大象是如今现存的陆生动物里最大的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2184 (Zifre) & #8835114 (crescat)"
+ },
+ {
+  "english": "I can't put up with this noise.",
+  "chinese": "我不能忍受这个噪音。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58020 (CK) & #833180 (Martha)"
+ },
+ {
+  "english": "I am grateful to you for your kindness.",
+  "chinese": "谢谢您的好意。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #54402 (CK) & #8780278 (crescat)"
+ },
+ {
+  "english": "I don't remember anything about the incident.",
+  "chinese": "我不记得事故的情况。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3067511 (CK) & #5993940 (verdastelo9604)"
+ },
+ {
+  "english": "The old lady climbed the stairs with difficulty.",
+  "chinese": "这名老妇艰难地爬上楼梯。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #43328 (CK) & #13071574 (maina)"
+ },
+ {
+  "english": "I am very ill at ease with strangers.",
+  "chinese": "我面对陌生人很不自在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252300 (CM) & #512141 (fucongcong)"
+ },
+ {
+  "english": "He quickly accustomed himself to his new surroundings.",
+  "chinese": "他很快就适应了新环境。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299867 (CK) & #6678479 (basilhan)"
+ },
+ {
+  "english": "He wanted to reduce the tax on imports.",
+  "chinese": "他想要减少进口品的税。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #803266 (Source_VOA) & #8690265 (crescat)"
+ },
+ {
+  "english": "I don't like either tea or coffee.",
+  "chinese": "我不喜欢茶也不喜欢咖啡。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257399 (CK) & #890461 (Martha)"
+ },
+ {
+  "english": "I'd like to swim in this river.",
+  "chinese": "我想在这条河里游泳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253681 (CK) & #894183 (Martha)"
+ },
+ {
+  "english": "I seasoned the fish with salt and pepper.",
+  "chinese": "我在鱼上洒盐和胡椒作调味。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #19360 (CK) & #1223810 (tsayng)"
+ },
+ {
+  "english": "My brother seems to enjoy himself at college.",
+  "chinese": "我弟弟似乎在大学过得很愉快。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #35993 (CK) & #335401 (fucongcong)"
+ },
+ {
+  "english": "Would you please explain the rules to me?",
+  "chinese": "请你为我解释规则好吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #632436 (CK) & #793974 (Martha)"
+ },
+ {
+  "english": "I'm sure you'll never regret it.",
+  "chinese": "我确定你永不后悔。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5681867 (CK) & #6923213 (verdastelo9604)"
+ },
+ {
+  "english": "I'll act as a guide for you.",
+  "chinese": "我为你充当导游。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #246418 (CK) & #1446898 (asosan)"
+ },
+ {
+  "english": "Burn this letter after you finish reading it.",
+  "chinese": "看完这封信请把它烧掉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #968302 (darinmex) & #8878028 (crescat)"
+ },
+ {
+  "english": "She doesn't want to talk about it.",
+  "chinese": "她不想提了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1891 (CK) & #502857 (fucongcong)"
+ },
+ {
+  "english": "More money for education will spur economic growth.",
+  "chinese": "更多投资在教育的钱将会刺激经济成长。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #19132 (Zifre) & #772166 (Martha)"
+ },
+ {
+  "english": "I'd like to talk about your situation.",
+  "chinese": "我想谈谈你的情况。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1936331 (CK) & #6148374 (verdastelo9604)"
+ },
+ {
+  "english": "Don't let children play in the road.",
+  "chinese": "别让孩子们在马路中间嬉戏。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #966053 (LittleBoy) & #8514561 (gumblex)"
+ },
+ {
+  "english": "Neither of those two students passed the test.",
+  "chinese": "两个学生都没通过考试。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #48895 (enzubii) & #884632 (Tajfun)"
+ },
+ {
+  "english": "There are plenty of fish in this river.",
+  "chinese": "这条河里有很多鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #45777 (Dejo) & #8761458 (crescat)"
+ },
+ {
+  "english": "It seems we are in the same boat.",
+  "chinese": "看起来我们是在一条船上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #64525 (CK) & #7768276 (jiangche)"
+ },
+ {
+  "english": "This bomb can kill a lot of people.",
+  "chinese": "这个炸弹可以炸死很多人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #387556 (Mouseneb) & #333893 (fucongcong)"
+ },
+ {
+  "english": "All of his family work on a farm.",
+  "chinese": "他全家都在农场工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #285726 (CM) & #4265050 (notabene)"
+ },
+ {
+  "english": "I am a member of the tennis club.",
+  "chinese": "我是网球俱乐部的会员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255101 (CK) & #332450 (fucongcong)"
+ },
+ {
+  "english": "It may be that he likes his job.",
+  "chinese": "他可能喜欢他的工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #274987 (CM) & #804784 (fucongcong)"
+ },
+ {
+  "english": "Put the chair in front of the desk.",
+  "chinese": "把椅子放在桌子前面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #681033 (Source_VOA) & #899982 (kanaorange)"
+ },
+ {
+  "english": "I'll pick you up at your home.",
+  "chinese": "我会去你家接你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70798 (CK) & #472851 (fucongcong)"
+ },
+ {
+  "english": "This rule does not apply in all cases.",
+  "chinese": "这条规则不是任何情况下都奏效的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #60347 (Dejo) & #1424167 (sadhen)"
+ },
+ {
+  "english": "Don't try to do this by yourself.",
+  "chinese": "别想靠你自己做这事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2584036 (CK) & #5911669 (verdastelo9604)"
+ },
+ {
+  "english": "I live in an apartment in the city.",
+  "chinese": "我住在城市中的一间公寓里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6157017 (CM) & #6157018 (LeviHighway)"
+ },
+ {
+  "english": "His parents are saving for his college education.",
+  "chinese": "他的父母为他的大学教育存钱。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #287801 (kebukebu) & #760874 (Martha)"
+ },
+ {
+  "english": "The students are talking about language and culture.",
+  "chinese": "学生们在探讨语言和文化。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #271820 (CK) & #1746196 (sadhen)"
+ },
+ {
+  "english": "I can't believe that you love me.",
+  "chinese": "我不能相信你爱我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #953373 (CK) & #6119441 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like to reserve a single room.",
+  "chinese": "我想预订一间单人房。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #52465 (CK) & #894047 (Martha)"
+ },
+ {
+  "english": "Don't touch this with your dirty hands.",
+  "chinese": "别用你的脏手碰这个。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3783130 (Hybrid) & #3783444 (Debbie_Linder)"
+ },
+ {
+  "english": "There are some empty bottles in the box.",
+  "chinese": "盒子里有些空瓶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #282645 (CK) & #396039 (GlossaMatik)"
+ },
+ {
+  "english": "There are billions of stars in the sky.",
+  "chinese": "天空中有数十亿的星星。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #18320 (J_S) & #4455656 (egg0073)"
+ },
+ {
+  "english": "You can stay as long as you like.",
+  "chinese": "你想要待多久就待多久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240658 (CK) & #346747 (fucongcong)"
+ },
+ {
+  "english": "Don't forget to put the fire out.",
+  "chinese": "不要忘了熄火。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9315351 (CK) & #888520 (Martha)"
+ },
+ {
+  "english": "He turned over the matter in his mind.",
+  "chinese": "他在心里反复思量这件事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299833 (CM) & #863328 (kooler)"
+ },
+ {
+  "english": "The teacher demonstrated the idea with an experiment.",
+  "chinese": "这位老师用试验论证了这个想法。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2163178 (Source_VOA) & #2581535 (fenfang557)"
+ },
+ {
+  "english": "I don't want to wait that long.",
+  "chinese": "我不想等那么久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1438 (CK) & #332935 (fucongcong)"
+ },
+ {
+  "english": "We'll be sure to look into it.",
+  "chinese": "我们一定会调查它。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3312167 (CK) & #5558515 (verdastelo9604)"
+ },
+ {
+  "english": "I'm sorry to bother you so often.",
+  "chinese": "一直打扰你不好意思。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1439702 (CK) & #8715873 (crescat)"
+ },
+ {
+  "english": "We happened to be on the same train.",
+  "chinese": "我们偶然乘上了同一辆列车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #262973 (CK) & #2031261 (ydcok)"
+ },
+ {
+  "english": "I need to find somewhere to practice dancing.",
+  "chinese": "我需要找个地方练舞。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6008601 (szilviez) & #5972291 (xjjAstrus)"
+ },
+ {
+  "english": "There used to be an old temple here.",
+  "chinese": "这里以前是座旧庙。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #28367 (CK) & #6080266 (verdastelo9604)"
+ },
+ {
+  "english": "A wounded whale washed up on the beach.",
+  "chinese": "一条受伤的鲸鱼在海滩边搁浅了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #682496 (Source_VOA) & #816502 (fucongcong)"
+ },
+ {
+  "english": "I almost left my umbrella on the train.",
+  "chinese": "我几乎把我的雨伞忘在火车上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #549662 (CK) & #727495 (Martha)"
+ },
+ {
+  "english": "I'm short of cash at the moment.",
+  "chinese": "此刻我缺少现金。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #241821 (CK) & #801376 (Martha)"
+ },
+ {
+  "english": "They looked up to him as their leader.",
+  "chinese": "他们把他奉为领袖。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #307413 (CK) & #5551180 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like to work at the cafeteria.",
+  "chinese": "我想在餐厅工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #63578 (CK) & #801394 (Martha)"
+ },
+ {
+  "english": "We're both here for the same reason.",
+  "chinese": "我们来这里是为了同一个原因。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2712792 (CK) & #6134989 (verdastelo9604)"
+ },
+ {
+  "english": "You should practice playing the violin every day.",
+  "chinese": "你应该每天练习拉小提琴。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16435 (Eldad) & #775787 (Martha)"
+ },
+ {
+  "english": "I don't mind walking in the rain.",
+  "chinese": "我不介意在雨中漫步。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256140 (CK) & #887800 (Martha)"
+ },
+ {
+  "english": "The lights in the bathroom aren't working.",
+  "chinese": "洗手间的灯坏掉了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324957 (CK) & #8831906 (crescat)"
+ },
+ {
+  "english": "Don't stay in the sun too long.",
+  "chinese": "不要在阳光下逗留太久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #281127 (CK) & #883298 (Martha)"
+ },
+ {
+  "english": "I don't really like the stores there.",
+  "chinese": "我不是很喜欢那里的商店。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #31122 (CK) & #875360 (Martha)"
+ },
+ {
+  "english": "I don't want to talk about this.",
+  "chinese": "我不想谈论这个问题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2014657 (CK) & #10260725 (GlossaMatik)"
+ },
+ {
+  "english": "He turned a deaf ear to their request.",
+  "chinese": "他对他们的请求置若罔闻。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #302566 (CM) & #8835117 (crescat)"
+ },
+ {
+  "english": "I can't bear the sight of him.",
+  "chinese": "我受不了他的视线。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #66892 (CK) & #920111 (Martha)"
+ },
+ {
+  "english": "I'm sure we'll find a solution.",
+  "chinese": "我确信我们会找到解决办法的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4384183 (CK) & #7772139 (jiangche)"
+ },
+ {
+  "english": "I can't stand that noise any longer.",
+  "chinese": "我再也受不了那噪音了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #31678 (CK) & #5819723 (verdastelo9604)"
+ },
+ {
+  "english": "I waited for my friend for an hour.",
+  "chinese": "我等我的一个朋友等了一小时。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1211546 (alec) & #334031 (fucongcong)"
+ },
+ {
+  "english": "Our situation should improve in the near future.",
+  "chinese": "我们近期内的情况应该会好转。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4500221 (CK) & #6685067 (basilhan)"
+ },
+ {
+  "english": "You can stay here till the snow stops.",
+  "chinese": "你可以在这里等到雪停。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #272537 (CK) & #5382894 (egg0073)"
+ },
+ {
+  "english": "I'm not very interested in artificial languages.",
+  "chinese": "我对人造语言不是很感兴趣。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10983823 (Elaineeeeee) & #9991919 (GlossaMatik)"
+ },
+ {
+  "english": "I'm the second oldest of three children.",
+  "chinese": "我是三个孩子中第二大的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1849429 (CK) & #9958166 (GlossaMatik)"
+ },
+ {
+  "english": "He compared his car to the new model.",
+  "chinese": "他拿他的车和新款车作比较。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #298765 (CK) & #779534 (Martha)"
+ },
+ {
+  "english": "You can use my car if you like.",
+  "chinese": "如果你喜欢你可以用我的车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #550928 (darinmex) & #874516 (Martha)"
+ },
+ {
+  "english": "Don't forget to put out the fire.",
+  "chinese": "不要忘了熄火。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #23860 (CK) & #888520 (Martha)"
+ },
+ {
+  "english": "Please let me off at the next stop.",
+  "chinese": "请在下一站让我下车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1655683 (gleki) & #4468899 (MirendaBABY)"
+ },
+ {
+  "english": "I don't like the taste of onions.",
+  "chinese": "我不喜欢洋葱的味道。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256950 (CK) & #890473 (Martha)"
+ },
+ {
+  "english": "I played with the baby on my knee.",
+  "chinese": "我在膝盖上跟婴儿玩。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #472109 (CK) & #775899 (Martha)"
+ },
+ {
+  "english": "Children of six and above should attend school.",
+  "chinese": "六岁及以上的小孩应该上学。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #72444 (Eldad) & #3289558 (sadhen)"
+ },
+ {
+  "english": "I don't like the taste of tomatoes.",
+  "chinese": "我不喜欢蕃茄的味道。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255274 (CK) & #881745 (Martha)"
+ },
+ {
+  "english": "Refugees poured in from all over the country.",
+  "chinese": "难民从整个国家涌来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #280806 (CM) & #787357 (fucongcong)"
+ },
+ {
+  "english": "Dinosaurs died out a very long time ago.",
+  "chinese": "恐龙在很久以前灭绝了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1073458 (CK) & #6585431 (verdastelo9604)"
+ },
+ {
+  "english": "I can't stand this pain any more.",
+  "chinese": "我不能再承受这种痛苦。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57813 (CK) & #777932 (Martha)"
+ },
+ {
+  "english": "I'd like to open a savings account.",
+  "chinese": "我想开个储蓄帐户。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #324791 (CK) & #343709 (fucongcong)"
+ },
+ {
+  "english": "I am writing a draft of the speech.",
+  "chinese": "我在写演讲的草稿。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #254018 (CM) & #6633873 (verdastelo9604)"
+ },
+ {
+  "english": "I don't like being treated like this.",
+  "chinese": "我不喜欢以这种方式被对待。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253832 (CK) & #397114 (fucongcong)"
+ },
+ {
+  "english": "The king will appear in person tomorrow evening.",
+  "chinese": "国王明晚会亲自出现。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #25606 (CK) & #464871 (fucongcong)"
+ },
+ {
+  "english": "You can pick out any book you like.",
+  "chinese": "你可以选择任何你喜欢的书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #36839 (CK) & #793888 (Martha)"
+ },
+ {
+  "english": "Computers are capable of doing extremely complicated work.",
+  "chinese": "电脑可以做极为复杂的工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #54559 (CM) & #2393778 (fenfang557)"
+ },
+ {
+  "english": "We found some dead fish in the river.",
+  "chinese": "我们在河里发现了一些死鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #248973 (CK) & #13656767 (LeviHighway)"
+ },
+ {
+  "english": "The people here are used to the cold.",
+  "chinese": "这里的人习惯了寒冷。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1230774 (alec) & #334406 (fucongcong)"
+ },
+ {
+  "english": "We'll change trains at the next station.",
+  "chinese": "我们会在下一站换火车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #264244 (CK) & #902947 (Martha)"
+ },
+ {
+  "english": "I want to marry a girl like her.",
+  "chinese": "我想和一个像她那样的女孩结婚。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #309055 (CK) & #334198 (fucongcong)"
+ },
+ {
+  "english": "You don't need to answer right away.",
+  "chinese": "你不用马上回答。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2007071 (CK) & #5663590 (verdastelo9604)"
+ },
+ {
+  "english": "He deposited the prize money in the bank.",
+  "chinese": "他把奖金存到银行了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299664 (CK) & #3680886 (GlossaMatik)"
+ },
+ {
+  "english": "I can't study with you watching me.",
+  "chinese": "你盯著我看使我无法读书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71468 (CK) & #941164 (Martha)"
+ },
+ {
+  "english": "My brother won't be at home tomorrow.",
+  "chinese": "我的兄弟明天不在家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5796958 (Herobane) & #5845650 (verdastelo9604)"
+ },
+ {
+  "english": "Please look up this word in a dictionary.",
+  "chinese": "请在词典里查这个词。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57959 (CK) & #9953328 (GlossaMatik)"
+ },
+ {
+  "english": "We use a lot of water every day.",
+  "chinese": "我们每天用很多的水。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #249025 (kebukebu) & #761289 (Martha)"
+ },
+ {
+  "english": "She can swim as fast as her brother.",
+  "chinese": "她能和她哥哥游得一样快。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310620 (CK) & #7745187 (xjjAstrus)"
+ },
+ {
+  "english": "I stayed home all day long reading novels.",
+  "chinese": "我全天在家读小说。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258643 (CK) & #6065369 (verdastelo9604)"
+ },
+ {
+  "english": "I'll explain it in detail next week.",
+  "chinese": "我下周会详细说明的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1224475 (CK) & #344204 (fucongcong)"
+ },
+ {
+  "english": "I'm not a fan of surprise visits.",
+  "chinese": "我不喜欢突如其来的拜访。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #11166001 (CK) & #13573924 (LeviHighway)"
+ },
+ {
+  "english": "There are only three girls in the class.",
+  "chinese": "这个班只有三个女生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #61192 (CK) & #483983 (moonoops)"
+ },
+ {
+  "english": "I'd like a table by the window.",
+  "chinese": "我要一张靠窗的桌子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #274247 (CK) & #894071 (Martha)"
+ },
+ {
+  "english": "There are five patients in the waiting room.",
+  "chinese": "等候室里有五位患者。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1421626 (CK) & #8776014 (crescat)"
+ },
+ {
+  "english": "You just saved me a lot of time.",
+  "chinese": "你省了我好多时间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3241674 (CK) & #6114430 (verdastelo9604)"
+ },
+ {
+  "english": "Ask him if he will attend the meeting.",
+  "chinese": "问他会不会来参加会议。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22577 (CK) & #343427 (fucongcong)"
+ },
+ {
+  "english": "She can't play the piano very well.",
+  "chinese": "她无法把钢琴弹得很好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310306 (CK) & #890955 (Martha)"
+ },
+ {
+  "english": "Would you please look after my dog tomorrow?",
+  "chinese": "你明天可以帮我照顾一下我的狗吗?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #776347 (CK) & #776974 (Martha)"
+ },
+ {
+  "english": "There are twenty-four hours in a day.",
+  "chinese": "一天有二十四个小时。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #653144 (Eldad) & #1417581 (sadhen)"
+ },
+ {
+  "english": "I'm not a junior high school student.",
+  "chinese": "我不是个初中生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259439 (CK) & #891746 (Martha)"
+ },
+ {
+  "english": "Please don't look at me like that.",
+  "chinese": "请不要那样看我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #41515 (CK) & #893364 (Martha)"
+ },
+ {
+  "english": "Thank you for drawing a bird for me.",
+  "chinese": "谢谢你为我画鸟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1716550 (Amastan) & #6044366 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like a room facing the garden.",
+  "chinese": "我想要一间面对花园的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #278481 (CK) & #894038 (Martha)"
+ },
+ {
+  "english": "I'm not used to walking long distances.",
+  "chinese": "我不习惯走很长的路。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1211519 (alec) & #1205882 (cienias)"
+ },
+ {
+  "english": "The dog followed its master, wagging its tail.",
+  "chinese": "狗摇著尾巴跟著主人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #682879 (Chelsea) & #6070964 (verdastelo9604)"
+ },
+ {
+  "english": "Please remind me to mail the report tomorrow.",
+  "chinese": "请提醒我明天把报告寄了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323044 (CK) & #819820 (fucongcong)"
+ },
+ {
+  "english": "I refuse to be treated like a child.",
+  "chinese": "我拒绝被像一个孩子般对待。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #621716 (xiuqin) & #427621 (fucongcong)"
+ },
+ {
+  "english": "We can't stay in here very long.",
+  "chinese": "我们不能在这里待很长时间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3185267 (CK) & #6628384 (verdastelo9604)"
+ },
+ {
+  "english": "That person doesn't want to do anything.",
+  "chinese": "那人什么也不想做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1579397 (fanty) & #6131485 (verdastelo9604)"
+ },
+ {
+  "english": "I don't want any bananas at all.",
+  "chinese": "我一点也不要香蕉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7492557 (CK) & #881280 (Martha)"
+ },
+ {
+  "english": "I repeated the word several times for her.",
+  "chinese": "我为她重复念这个字很多遍。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261235 (CK) & #737117 (Martha)"
+ },
+ {
+  "english": "I'll be at home in the morning.",
+  "chinese": "我早上会在家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #240103 (CK) & #891050 (Martha)"
+ },
+ {
+  "english": "He cut down a tree in his garden.",
+  "chinese": "他在花园里砍了一棵树。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301709 (CK) & #429096 (fucongcong)"
+ },
+ {
+  "english": "My father often reads the newspaper during meals.",
+  "chinese": "我父亲经常在吃饭时读报纸。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #394111 (CK) & #5911731 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like to pay by credit card.",
+  "chinese": "我想用信用卡支付。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #62773 (CK) & #894390 (Martha)"
+ },
+ {
+  "english": "He listened with his ear to the door.",
+  "chinese": "他把耳朵贴在门上听。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #291898 (CK) & #6091761 (verdastelo9604)"
+ },
+ {
+  "english": "The end does not always justify the means.",
+  "chinese": "为了正当目的并非总是可以不择手段.",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323820 (CK) & #793969 (Martha)"
+ },
+ {
+  "english": "A boat suddenly appeared out of the mist.",
+  "chinese": "一艘船突然从雾中出现。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322862 (Dejo) & #431497 (fucongcong)"
+ },
+ {
+  "english": "I'm new at this kind of work.",
+  "chinese": "我对这种工作还不熟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2784478 (sharptoothed) & #6094914 (verdastelo9604)"
+ },
+ {
+  "english": "I don't need to talk about it.",
+  "chinese": "我不需要谈论它。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2322774 (CK) & #8085434 (jenny5752)"
+ },
+ {
+  "english": "I planted a peach tree in my yard.",
+  "chinese": "我在我的院子里种了棵桃树。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2772380 (CK) & #5983603 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like a room in the back.",
+  "chinese": "我想要一间后面的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #325374 (CK) & #801404 (Martha)"
+ },
+ {
+  "english": "He retired to his own room after supper.",
+  "chinese": "他在吃过晚餐后回到了自己的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #304487 (CM) & #8815170 (crescat)"
+ },
+ {
+  "english": "I'd like to stay for one night.",
+  "chinese": "我想待一夜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1660 (CK) & #501544 (fucongcong)"
+ },
+ {
+  "english": "I don't like living in the country.",
+  "chinese": "我不喜欢住在乡下。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259610 (CK) & #889603 (Martha)"
+ },
+ {
+  "english": "Milk boils at a higher temperature than water.",
+  "chinese": "牛奶的沸点比水高。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #19462 (CK) & #13544335 (LeviHighway)"
+ },
+ {
+  "english": "I can't do anything but obey him.",
+  "chinese": "我除了听从他之外什么也不能做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #403376 (CK) & #875384 (Martha)"
+ },
+ {
+  "english": "I don't want to read this book.",
+  "chinese": "我不想读这本书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #627286 (CK) & #2027947 (ydcok)"
+ },
+ {
+  "english": "We failed due to a lack of preparation.",
+  "chinese": "我们因缺乏准备而失败了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22915 (CM) & #778488 (Martha)"
+ },
+ {
+  "english": "I can't distinguish him from his brother.",
+  "chinese": "我分不清他和他的弟弟。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #284825 (CK) & #926843 (Martha)"
+ },
+ {
+  "english": "I want to talk to you about something.",
+  "chinese": "我想跟你说点事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #326528 (CK) & #423375 (fucongcong)"
+ },
+ {
+  "english": "She can do both at the same time.",
+  "chinese": "她可以同时做这两件事。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1551845 (Spamster) & #5595159 (verdastelo9604)"
+ },
+ {
+  "english": "These tools are used for building a house.",
+  "chinese": "这些工具是用来造房子的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #55119 (CK) & #335874 (fucongcong)"
+ },
+ {
+  "english": "The blue lines on the map represent rivers.",
+  "chinese": "地图上的蓝线代表河流。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #277229 (CM) & #835557 (fucongcong)"
+ },
+ {
+  "english": "The teacher assembled the students in the hall.",
+  "chinese": "老师在礼堂把学生们集合起来。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #48683 (CK) & #897263 (Martha)"
+ },
+ {
+  "english": "I found a beautiful shell on the shore.",
+  "chinese": "我在海滩上发现了一个漂亮的贝壳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #256744 (CK) & #1358441 (sadhen)"
+ },
+ {
+  "english": "I remember the way you used to dance.",
+  "chinese": "我记得你以前跳舞的方式。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4083734 (CK) & #5780584 (verdastelo9604)"
+ },
+ {
+  "english": "I avoid discussing personal subjects with my boss.",
+  "chinese": "我避免跟老板讨论个人话题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4571450 (mailohilohi) & #5684092 (verdastelo9604)"
+ },
+ {
+  "english": "I'd like to try on this dress.",
+  "chinese": "我想试穿这件衣服。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #60771 (CK) & #892578 (Martha)"
+ },
+ {
+  "english": "I played tennis yesterday for the first time.",
+  "chinese": "昨天我第一次打了网球。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257784 (CK) & #335891 (fucongcong)"
+ },
+ {
+  "english": "I'm just a plain old office worker.",
+  "chinese": "我只是一个普通的老式上班族。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #477342 (CK) & #894218 (Martha)"
+ },
+ {
+  "english": "Some of them seem to be too difficult.",
+  "chinese": "其中一些似乎太难了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #277458 (CK) & #1423331 (sadhen)"
+ },
+ {
+  "english": "My camera doesn't need to be fixed.",
+  "chinese": "我的照相机不需要修理。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #250294 (CK) & #781166 (Martha)"
+ },
+ {
+  "english": "I don't doubt it in the least.",
+  "chinese": "我对此毫不怀疑。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7492549 (CK) & #431728 (GlossaMatik)"
+ },
+ {
+  "english": "They attempted to break through the enemy line.",
+  "chinese": "他们试图冲破敌军防线。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #307213 (CK) & #461548 (fucongcong)"
+ },
+ {
+  "english": "A true gentleman would not betray his friends.",
+  "chinese": "一个真正的绅士不会出卖他的朋友。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322228 (CS) & #333581 (fucongcong)"
+ },
+ {
+  "english": "She finished her work an hour in advance.",
+  "chinese": "她提前一小时完成了工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310091 (CM) & #785821 (fucongcong)"
+ },
+ {
+  "english": "There are some strange animals in the zoo.",
+  "chinese": "动物园里有很多奇怪的动物。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #44694 (CK) & #2482672 (fenfang557)"
+ },
+ {
+  "english": "I don't want to talk about it.",
+  "chinese": "我不想谈论这个问题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1096472 (CK) & #10260725 (GlossaMatik)"
+ },
+ {
+  "english": "You can't do two things at once.",
+  "chinese": "你不能一心二用。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #280318 (CK) & #803795 (GlossaMatik)"
+ },
+ {
+  "english": "I do not agree with you at all.",
+  "chinese": "我完全不赞成你的意见。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257053 (CK) & #899434 (kooler)"
+ },
+ {
+  "english": "I'd like a glass of water, please.",
+  "chinese": "请给我一杯水。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #270845 (CK) & #890631 (Martha)"
+ },
+ {
+  "english": "I'm three years younger than you are.",
+  "chinese": "我比你小三岁。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6222208 (CK) & #864345 (Martha)"
+ },
+ {
+  "english": "We rented a truck to move our furniture.",
+  "chinese": "我们租了辆卡车来运我们的家具。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #682249 (Source_VOA) & #884628 (Tajfun)"
+ },
+ {
+  "english": "I'm sorry for the delay in responding.",
+  "chinese": "我很抱歉这么迟才回复。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320367 (CK) & #801381 (Martha)"
+ },
+ {
+  "english": "We agreed to start early the next morning.",
+  "chinese": "我们同意了第二天一早开始。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #22640 (CK) & #333084 (fucongcong)"
+ },
+ {
+  "english": "A plastic dish will melt on the stove.",
+  "chinese": "塑料盘子在烤箱里会化的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #34217 (CK) & #444641 (fucongcong)"
+ },
+ {
+  "english": "I don't remember doing anything like that.",
+  "chinese": "我不记得干了那样的事情。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3536238 (Hybrid) & #10047715 (zhoudoufu)"
+ },
+ {
+  "english": "I want to emphasize this point in particular.",
+  "chinese": "我想特别强调这一点。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #33531 (CK) & #2368479 (vicch)"
+ },
+ {
+  "english": "I don't want to talk about myself.",
+  "chinese": "我不想谈我自己。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3010249 (CK) & #6325115 (verdastelo9604)"
+ },
+ {
+  "english": "I'll never allow you to do that.",
+  "chinese": "我绝不会让你去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5937820 (CK) & #6120874 (verdastelo9604)"
+ },
+ {
+  "english": "I'll be at home all day tomorrow.",
+  "chinese": "明天我一整天都在家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2712944 (CK) & #5100101 (mirrorvan)"
+ },
+ {
+  "english": "I don't like my hair at all.",
+  "chinese": "我根本不喜欢我的头发。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1579484 (fanty) & #6059527 (verdastelo9604)"
+ },
+ {
+  "english": "I remember returning the book to the library.",
+  "chinese": "我记得我把书还到图书馆了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #43885 (CK) & #8589633 (tianblr)"
+ },
+ {
+  "english": "Write your name and address on this envelope.",
+  "chinese": "把你的姓名和地址写在这个信封上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #57290 (CK) & #779043 (Martha)"
+ },
+ {
+  "english": "I will be happy to attend your party.",
+  "chinese": "我很快乐能参加你的派对。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70870 (CK) & #780240 (Martha)"
+ },
+ {
+  "english": "I want to be the one who decides.",
+  "chinese": "我想成为决策的人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5194202 (CK) & #5574448 (verdastelo9604)"
+ },
+ {
+  "english": "I can't stand this noise any longer.",
+  "chinese": "我无法再忍受这个噪音了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58022 (CK) & #919954 (Martha)"
+ },
+ {
+  "english": "I can't put up with this smell.",
+  "chinese": "我不能忍受这种气味。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253657 (CK) & #889620 (Martha)"
+ },
+ {
+  "english": "I can't do any more than this.",
+  "chinese": "我无法做比这更多的了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #421984 (CK) & #889343 (Martha)"
+ },
+ {
+  "english": "One of the children left the door open.",
+  "chinese": "其中一个孩子让门开著。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #245714 (CK) & #894233 (Martha)"
+ },
+ {
+  "english": "Wipe the pan dry with a paper towel.",
+  "chinese": "用纸巾把那口锅擦干。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8574335 (CK) & #8574653 (slo_oth)"
+ },
+ {
+  "english": "I don't mind waiting for a while.",
+  "chinese": "我不介意等一会儿。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #53409 (CK) & #884200 (Martha)"
+ },
+ {
+  "english": "I'm afraid you can't marry her.",
+  "chinese": "我怕你没法跟她结婚。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #245213 (CM) & #333205 (fucongcong)"
+ },
+ {
+  "english": "He looked for every possible means of escape.",
+  "chinese": "他寻找一切可能的逃生途径。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301981 (CK) & #332513 (fucongcong)"
+ },
+ {
+  "english": "I don't want to miss my train.",
+  "chinese": "我不想错过我的火车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1553477 (CK) & #1783798 (sadhen)"
+ },
+ {
+  "english": "I don't want to quit this job.",
+  "chinese": "我不想辞去这份工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1553476 (CK) & #1783797 (sadhen)"
+ },
+ {
+  "english": "We postponed our departure because of the storm.",
+  "chinese": "我们因为风暴推迟了起程。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1398749 (CK) & #6111731 (verdastelo9604)"
+ },
+ {
+  "english": "A gentleman wouldn't do such a thing.",
+  "chinese": "一个绅士是不会做这种事的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #269707 (CK) & #346067 (fucongcong)"
+ },
+ {
+  "english": "She cared for her father until his death.",
+  "chinese": "她照顾她的父亲直到他去世。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #316807 (CK) & #1235355 (sunnywqing)"
+ },
+ {
+  "english": "I don't like this city at all.",
+  "chinese": "我一点都不喜欢这个城市。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1178594 (Shishir) & #12292350 (WangDusheng)"
+ },
+ {
+  "english": "I love you more than you love me.",
+  "chinese": "我爱你多于你爱我。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #17829 (lazycat) & #803848 (Martha)"
+ },
+ {
+  "english": "There are no live animals in the museum.",
+  "chinese": "这博物馆里面没有活的生物。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #282549 (Eldad) & #1490505 (sadhen)"
+ },
+ {
+  "english": "She put the dirty dishes in the sink.",
+  "chinese": "她把脏盘子放进水池里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #312724 (CK) & #866752 (kooler)"
+ },
+ {
+  "english": "I won't be home in the afternoon.",
+  "chinese": "下午我不在家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #11850541 (CK) & #423411 (fucongcong)"
+ },
+ {
+  "english": "Looks like today will be a long day.",
+  "chinese": "看来今天会是漫长的一天啊。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3748433 (nagoyablue) & #5097569 (mirrorvan)"
+ },
+ {
+  "english": "I can't forget what happened that day.",
+  "chinese": "我无法忘记那天发生了什么。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7735787 (CK) & #8631834 (ZeroAurora)"
+ },
+ {
+  "english": "I'm the tallest one in the class.",
+  "chinese": "我在班里是最高的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1229089 (CK) & #2028017 (ydcok)"
+ },
+ {
+  "english": "I need more time to finish my homework.",
+  "chinese": "我需要更多时间来完成我的家庭作业。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #371976 (saeb) & #7980349 (Leolaaziano)"
+ },
+ {
+  "english": "I'd like to talk with you privately.",
+  "chinese": "我想跟你私下说话。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1936319 (CK) & #5819691 (verdastelo9604)"
+ },
+ {
+  "english": "I don't like studying in this heat.",
+  "chinese": "我不喜欢在这么热的气温下念书。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #58540 (CK) & #842469 (Martha)"
+ },
+ {
+  "english": "That cloud looks like a rabbit to me.",
+  "chinese": "那朵云对我来说像一只兔子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #644595 (darinmex) & #812324 (fucongcong)"
+ },
+ {
+  "english": "You're the one with all the money.",
+  "chinese": "你是有所有钱的人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3166047 (CK) & #6150031 (verdastelo9604)"
+ },
+ {
+  "english": "I just don't want to marry you.",
+  "chinese": "我就是不想嫁给你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2014291 (CK) & #5812361 (xjjAstrus)"
+ },
+ {
+  "english": "The earth orbits the sun once a year.",
+  "chinese": "地球公转时间是一年。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4770193 (mailohilohi) & #8490497 (maxine)"
+ },
+ {
+  "english": "I'm a member of the swimming club.",
+  "chinese": "我是游泳俱乐部的会员。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #258913 (CK) & #893038 (Martha)"
+ },
+ {
+  "english": "She left her son a lot of money.",
+  "chinese": "她留了很多钱给她儿子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315578 (CK) & #791534 (fucongcong)"
+ },
+ {
+  "english": "I'm old enough to live by myself.",
+  "chinese": "我年纪够大了可以自己一个人住。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #252477 (CK) & #894370 (Martha)"
+ },
+ {
+  "english": "He crossed the river in a small boat.",
+  "chinese": "他乘小船过河。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299539 (CK) & #786132 (Martha)"
+ },
+ {
+  "english": "I like red wine better than white wine.",
+  "chinese": "我喜欢红葡萄酒胜过白葡萄酒。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3662952 (CK) & #795851 (Martha)"
+ },
+ {
+  "english": "The boy carved his name into the tree.",
+  "chinese": "男孩把他的名字刻在树上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #657396 (CS) & #3487188 (GlossaMatik)"
+ },
+ {
+  "english": "I suggest we move to a safer location.",
+  "chinese": "我建议我们去个更安全的地方。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3127851 (CK) & #6198189 (verdastelo9604)"
+ },
+ {
+  "english": "The gardener turned out to be the murderer.",
+  "chinese": "园丁后来发现就是凶手。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3780308 (Eldad) & #4760021 (ryanwoo)"
+ },
+ {
+  "english": "I'm waiting for this store to open.",
+  "chinese": "我正等著这家店开门。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9499417 (shekitten) & #785172 (Martha)"
+ },
+ {
+  "english": "This rule doesn't apply to every case.",
+  "chinese": "这条规则不是任何情况下都奏效的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #61201 (CK) & #1424167 (sadhen)"
+ },
+ {
+  "english": "He placed emphasis on the importance of education.",
+  "chinese": "他强调了教育的重要性。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295335 (CK) & #1350119 (vicch)"
+ },
+ {
+  "english": "I need to ask you a silly question.",
+  "chinese": "我必须问你一个蠢问题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1417 (CK) & #501415 (fucongcong)"
+ },
+ {
+  "english": "I don't like milk in my coffee.",
+  "chinese": "我不喜欢咖啡里加牛奶。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6664498 (CK) & #13549570 (LeviHighway)"
+ },
+ {
+  "english": "Thank you for inviting me to the party.",
+  "chinese": "感谢你请我来参加派对。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #35673 (CK) & #343965 (fucongcong)"
+ },
+ {
+  "english": "I'm looking for a room for rent.",
+  "chinese": "我在找一间出租的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259305 (CK) & #894425 (Martha)"
+ },
+ {
+  "english": "There used to be a store right here.",
+  "chinese": "这里以前有个商店。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #28358 (CK) & #5983642 (verdastelo9604)"
+ },
+ {
+  "english": "We'll probably be the first ones there.",
+  "chinese": "我们可能是最先到那里的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2953867 (CK) & #6216623 (verdastelo9604)"
+ },
+ {
+  "english": "I nearly left my umbrella on the train.",
+  "chinese": "我几乎把我的雨伞忘在火车上。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8981994 (sundown) & #727495 (Martha)"
+ },
+ {
+  "english": "That boy used to drop in on me.",
+  "chinese": "那男孩儿来访过我家。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #46347 (CK) & #1394900 (mtdot)"
+ },
+ {
+  "english": "You only started this job an hour ago.",
+  "chinese": "你仅仅是一个小时前才开始这份工作的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #16840 (Dejo) & #2002975 (sunnywqing)"
+ },
+ {
+  "english": "I'd like a room in the front.",
+  "chinese": "我想要一间前面的房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #318353 (CK) & #801405 (Martha)"
+ },
+ {
+  "english": "Those kinds of methods are out of date.",
+  "chinese": "这种方法早已过时了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1451930 (CM) & #9953332 (GlossaMatik)"
+ },
+ {
+  "english": "The red flag indicated the presence of danger.",
+  "chinese": "红旗代表存在危险。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #272427 (CM) & #810980 (fucongcong)"
+ },
+ {
+  "english": "I'm glad that you guys are here.",
+  "chinese": "我很高兴你们都在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #8462514 (CK) & #8463574 (gumblex)"
+ },
+ {
+  "english": "She waved her hand to me, smiling brightly.",
+  "chinese": "她笑眯眯的对我招手。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323009 (CM) & #10871952 (gli315400)"
+ },
+ {
+  "english": "I'm really looking forward to summer vacation.",
+  "chinese": "我真的非常期待暑假。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4792239 (CK) & #4794541 (umidake)"
+ },
+ {
+  "english": "My father put a fence around the garden.",
+  "chinese": "我父亲在花园边上装了篱笆。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #319303 (CK) & #5845595 (verdastelo9604)"
+ },
+ {
+  "english": "You're a month behind in your rent.",
+  "chinese": "你的租金迟交了一个月。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70406 (CK) & #908342 (Martha)"
+ },
+ {
+  "english": "I'd like the sauce on the side.",
+  "chinese": "我想要酱料放在旁边。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #51049 (CK) & #801406 (Martha)"
+ },
+ {
+  "english": "I consider you one of my closest friends.",
+  "chinese": "我把你视为我最要好的朋友之一。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #643259 (darinmex) & #812295 (fucongcong)"
+ },
+ {
+  "english": "She always clears the table after a meal.",
+  "chinese": "她经常在饭后收拾桌子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #310453 (CK) & #611537 (sarah)"
+ },
+ {
+  "english": "I'd like seats on the first floor.",
+  "chinese": "我想要一楼的座位。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #73193 (CK) & #894004 (Martha)"
+ },
+ {
+  "english": "I don't even want to try it.",
+  "chinese": "我甚至不想试试。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5737355 (CM) & #5967314 (verdastelo9604)"
+ },
+ {
+  "english": "I'm as tired as tired can be.",
+  "chinese": "我累得不能再累了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253669 (CM) & #334138 (fucongcong)"
+ },
+ {
+  "english": "I am waiting for the store to open.",
+  "chinese": "我正等著这家店开门。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #259597 (CK) & #785172 (Martha)"
+ },
+ {
+  "english": "I don't often do that by myself.",
+  "chinese": "我不经常自己去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6257291 (CK) & #6585438 (verdastelo9604)"
+ },
+ {
+  "english": "It would be crazy to do that again.",
+  "chinese": "再来一次就是疯了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5398452 (CK) & #5698020 (verdastelo9604)"
+ },
+ {
+  "english": "Don't forget to turn the light off.",
+  "chinese": "不要忘了关灯。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #279155 (CK) & #883446 (Martha)"
+ },
+ {
+  "english": "Your plan requires a large amount of money.",
+  "chinese": "你的计划需要一大笔钱。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #70740 (CK) & #2017462 (sadhen)"
+ },
+ {
+  "english": "You should pay more attention to his warnings.",
+  "chinese": "你应该多注意他的警告。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #15818 (Swift) & #775628 (Martha)"
+ },
+ {
+  "english": "I will provide you all the necessary information.",
+  "chinese": "我会把所有有用的信息提供给您的。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #526662 (CK) & #805039 (fucongcong)"
+ },
+ {
+  "english": "I will never force you to marry him.",
+  "chinese": "我永远不会逼你跟他结婚。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71325 (CK) & #790751 (Martha)"
+ },
+ {
+  "english": "I'm trying to save room for dessert.",
+  "chinese": "我尽量留着胃吃甜点。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #39471 (CK) & #333303 (fucongcong)"
+ },
+ {
+  "english": "I am looking for a present for my mother.",
+  "chinese": "我正在为我的妈妈寻找礼物。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320583 (CK) & #1235602 (sunnywqing)"
+ },
+ {
+  "english": "I need to complete it as soon as possible.",
+  "chinese": "我需要尽快完成。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3178644 (CK) & #5574771 (verdastelo9604)"
+ },
+ {
+  "english": "She seems to be in love with my brother.",
+  "chinese": "她似乎喜欢上了我哥哥。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314311 (CM) & #5405489 (egg0073)"
+ },
+ {
+  "english": "Hurry up, or you will miss the last train.",
+  "chinese": "再不快点你就要赶不上末班车了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #19651 (CK) & #4906175 (musclegirlxyp)"
+ },
+ {
+  "english": "I'm now about as tall as my father.",
+  "chinese": "我现在和我父亲差不多高了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2278804 (CK) & #13564962 (LeviHighway)"
+ },
+ {
+  "english": "You're the only one who can protect them.",
+  "chinese": "只有你能保护他们。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2712660 (CK) & #5556173 (verdastelo9604)"
+ },
+ {
+  "english": "A great number of books are published every year.",
+  "chinese": "每年都有大量新书出版。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322480 (CM) & #5942073 (verdastelo9604)"
+ },
+ {
+  "english": "They live on the other side of the road.",
+  "chinese": "他们住在路对面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #307254 (CK) & #6103122 (verdastelo9604)"
+ },
+ {
+  "english": "I can't adjust myself to the climate here.",
+  "chinese": "我不能适应这里的气候。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2264264 (sharptoothed) & #6091818 (verdastelo9604)"
+ },
+ {
+  "english": "My father can swim, but my mother can't.",
+  "chinese": "我父亲会游泳但我母亲不会。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #528525 (fanty) & #487528 (fucongcong)"
+ },
+ {
+  "english": "There are all kinds of people in the world.",
+  "chinese": "林子大了什么鸟都有。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #400565 (CM) & #400564 (GlossaMatik)"
+ },
+ {
+  "english": "What will we be doing this time next week?",
+  "chinese": "我们在下周的这个时候要做些什么呢。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #247164 (jakov) & #10157008 (yeyue)"
+ },
+ {
+  "english": "I'd like a single with a shower, please.",
+  "chinese": "我要一间有淋浴的单人间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #53044 (CM) & #395629 (GlossaMatik)"
+ },
+ {
+  "english": "A detective arrived upon the scene of the crime.",
+  "chinese": "一名警探到达了犯罪现场。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #237816 (CM) & #1328076 (vicch)"
+ },
+ {
+  "english": "There are no people who don't desire peace.",
+  "chinese": "没人不渴望和平。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1439910 (CM) & #6623195 (verdastelo9604)"
+ },
+ {
+  "english": "I don't want to participate in the ceremony.",
+  "chinese": "我不想参加典礼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #254447 (CK) & #400984 (fucongcong)"
+ },
+ {
+  "english": "I'm really sorry about what happened last night.",
+  "chinese": "我对昨天晚上发生的事情感到非常的抱歉。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3044005 (CK) & #3044018 (sadhen)"
+ },
+ {
+  "english": "We will continue the meeting after some light refreshments.",
+  "chinese": "茶点过后我们接着开会。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #4763339 (garborg) & #4760079 (ryanwoo)"
+ },
+ {
+  "english": "I'd like to introduce you to my parents.",
+  "chinese": "我想介绍你给我父母认识。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2481175 (CM) & #2480489 (tsayng)"
+ },
+ {
+  "english": "We waited in the park for a long time.",
+  "chinese": "我们在公园等了好久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #263155 (Dejo) & #4265095 (notabene)"
+ },
+ {
+  "english": "I'd like to pay with a credit card.",
+  "chinese": "我想用信用卡支付。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10286261 (CK) & #894390 (Martha)"
+ },
+ {
+  "english": "You don't need to do that at once.",
+  "chinese": "你没必要马上去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9013957 (CK) & #1361958 (sadhen)"
+ },
+ {
+  "english": "Don't put anything on top of the box.",
+  "chinese": "不要放任何东西在箱子上面。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #44472 (CK) & #4816290 (umidake)"
+ },
+ {
+  "english": "Cover your mouth when you cough, sneeze, or yawn.",
+  "chinese": "你咳嗽、打喷嚏或打哈欠的时候要捂住你的嘴。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21841 (CK) & #401028 (fucongcong)"
+ },
+ {
+  "english": "I don't want there to be any misunderstanding.",
+  "chinese": "我不想有任何误会。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #36652 (CK) & #336691 (fucongcong)"
+ },
+ {
+  "english": "You are the only one who can protect them.",
+  "chinese": "只有你能保护他们。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1787910 (sadhen) & #5556173 (verdastelo9604)"
+ },
+ {
+  "english": "My father insisted on our waiting for the train.",
+  "chinese": "我的父亲坚持要我们等火车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #319096 (CK) & #793972 (Martha)"
+ },
+ {
+  "english": "Whether you like it or not doesn't matter.",
+  "chinese": "你喜不喜欢没关系。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #71571 (Swift) & #336470 (fucongcong)"
+ },
+ {
+  "english": "Can you explain the exact meaning of this word?",
+  "chinese": "你能否说出这个词的精确意思?",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2169272 (CM) & #2166017 (sadhen)"
+ },
+ {
+  "english": "No one noticed her absence until the meeting ended.",
+  "chinese": "直到会议结束之前都没人注意到她不在。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #903362 (CK) & #9953251 (GlossaMatik)"
+ },
+ {
+  "english": "There are a lot of fish in that lake.",
+  "chinese": "那片湖里有很多鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1123672 (CK) & #13573251 (LeviHighway)"
+ },
+ {
+  "english": "I'd like to invite you to the party.",
+  "chinese": "我想请你参加派对。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #68815 (CK) & #347060 (fucongcong)"
+ },
+ {
+  "english": "I want to introduce you to my friend here.",
+  "chinese": "我想给你介绍一下我身旁这位朋友。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9408484 (BobbyLee) & #9203448 (xjjAstrus)"
+ },
+ {
+  "english": "I don't like to swim in the pool.",
+  "chinese": "我不喜欢在泳池里游泳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255503 (CK) & #846105 (Martha)"
+ },
+ {
+  "english": "Mastering a foreign language involves a lot of patience.",
+  "chinese": "学好一门外语需要坚韧不拔的毅力。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #21916 (Eldad) & #1736070 (yuzazaza)"
+ },
+ {
+  "english": "I'm looking for a coat in my size.",
+  "chinese": "我在找有我尺寸的上衣。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #250331 (CM) & #438501 (fucongcong)"
+ },
+ {
+  "english": "I don't want to talk about the weather.",
+  "chinese": "我不想谈论天气。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #680045 (Source_VOA) & #886540 (Martha)"
+ },
+ {
+  "english": "I don't want to be friends with you.",
+  "chinese": "我不想跟你交朋友。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3062190 (Hybrid) & #5900408 (verdastelo9604)"
+ },
+ {
+  "english": "I help my mother with the housework every day.",
+  "chinese": "我每天都帮我妈做家务。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #662581 (bluepie88) & #1235645 (sunnywqing)"
+ },
+ {
+  "english": "Possibly the factory will be closed down next week.",
+  "chinese": "下周工厂可能会关。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #40584 (CK) & #517586 (fucongcong)"
+ },
+ {
+  "english": "This plan will be very expensive to carry out.",
+  "chinese": "这计划执行起来花销会很大。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #59524 (CM) & #5581600 (verdastelo9604)"
+ },
+ {
+  "english": "The apple does not fall far from the tree.",
+  "chinese": "苹果掉落的地方不会离树干很远。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #611122 (kebukebu) & #816706 (Martha)"
+ },
+ {
+  "english": "There are at least thirty students in our class.",
+  "chinese": "我们班至少有三十个学生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3378106 (CM) & #3378105 (GlossaMatik)"
+ },
+ {
+  "english": "I'm saving money in order to study abroad.",
+  "chinese": "我正存钱出国留学。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6872965 (CK) & #12717086 (Duyu09)"
+ },
+ {
+  "english": "I don't wash my hair in the morning.",
+  "chinese": "我早上不洗头。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1428056 (CK) & #343926 (fucongcong)"
+ },
+ {
+  "english": "He picked up a mirror and examined his tongue.",
+  "chinese": "他拿了面镜子细看自己的舌头。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295382 (CM) & #346121 (fucongcong)"
+ },
+ {
+  "english": "These three pretty girls are all nieces of mine.",
+  "chinese": "这三个漂亮的女孩都是我的侄女。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #61394 (CM) & #678181 (Martha)"
+ },
+ {
+  "english": "We intended to let you in on the secret.",
+  "chinese": "我们打算让你知道这个秘密。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1565756 (CM) & #1565714 (GlossaMatik)"
+ },
+ {
+  "english": "I do not like the way he treats others.",
+  "chinese": "我不喜欢他怎么对待他人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #260691 (CK) & #6828265 (basilhan)"
+ },
+ {
+  "english": "There are a lot of fish in this lake.",
+  "chinese": "这湖里有许多鱼。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1123803 (CM) & #2029376 (ydcok)"
+ },
+ {
+  "english": "We don't want to cause you any trouble.",
+  "chinese": "我们不想给你添麻烦。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2026470 (CK) & #11751307 (Ice_cream)"
+ },
+ {
+  "english": "My father will often read the newspaper during meals.",
+  "chinese": "我父亲常在吃饭时看报纸。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #319282 (CM) & #5624963 (verdastelo9604)"
+ },
+ {
+  "english": "I thank you from the bottom of my heart.",
+  "chinese": "我打心底里感激你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #268952 (CK) & #4759994 (ryanwoo)"
+ },
+ {
+  "english": "I will not allow you to use my pen.",
+  "chinese": "我不允许你用我的钢笔。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1139905 (soj4l) & #461536 (fucongcong)"
+ },
+ {
+  "english": "One hundred and fifty people entered the marathon race.",
+  "chinese": "150个人参加了马拉松比赛。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #49862 (CK) & #1426564 (sadhen)"
+ },
+ {
+  "english": "The runner jumped over the hole in the ground.",
+  "chinese": "那个赛跑运动员跃过了地面上的洞。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #681672 (Source_VOA) & #8739383 (crescat)"
+ },
+ {
+  "english": "I don't agree with you on this point.",
+  "chinese": "这一点我不赞成你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #253699 (CK) & #1438522 (asosan)"
+ },
+ {
+  "english": "She managed to finish the work on her own.",
+  "chinese": "她想方设法以一己之力完成了工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #315241 (CK) & #1394846 (mtdot)"
+ },
+ {
+  "english": "There are a few shops next to my house.",
+  "chinese": "我家旁边有几家商店。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #662701 (bluepie88) & #408838 (fucongcong)"
+ },
+ {
+  "english": "You don't need to do that right away.",
+  "chinese": "你没必要马上去做。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #411311 (CK) & #1361958 (sadhen)"
+ },
+ {
+  "english": "He plays golf two or three times a month.",
+  "chinese": "他一个月玩两到三次高尔夫。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #295902 (CK) & #4844982 (pig8322)"
+ },
+ {
+  "english": "You don't need to carry lunch with you.",
+  "chinese": "你不需要随身带著午餐。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #320463 (CK) & #793516 (Martha)"
+ },
+ {
+  "english": "She expressed her feelings for nature in a poem.",
+  "chinese": "她通过一首诗表达了她对大自然的感受。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #314574 (CM) & #6018293 (xjjAstrus)"
+ },
+ {
+  "english": "Large houses are not necessarily comfortable to live in.",
+  "chinese": "大房子不一定适合住。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #275497 (CK) & #9970091 (GlossaMatik)"
+ },
+ {
+  "english": "The baby seemed to be in a deep sleep.",
+  "chinese": "那个婴儿似乎在熟睡中。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1205590 (CK) & #8388809 (wangchou)"
+ },
+ {
+  "english": "I don't want to cause any more trouble.",
+  "chinese": "我不想再惹事了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2026369 (CK) & #6028216 (verdastelo9604)"
+ },
+ {
+  "english": "He rushed into the room with his coat on.",
+  "chinese": "他穿着衣服冲进房间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #289809 (CK) & #336257 (fucongcong)"
+ },
+ {
+  "english": "I'll call for you at eight tomorrow morning.",
+  "chinese": "我明早八点来接你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #323185 (CM) & #332657 (fucongcong)"
+ },
+ {
+  "english": "You're not supposed to be in this area.",
+  "chinese": "你不应该待在这里。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2835585 (CK) & #3770515 (Debbie_Linder)"
+ },
+ {
+  "english": "If we don't hurry, we'll be late.",
+  "chinese": "再不快点就迟到了噢。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5516203 (genericdave) & #5100259 (mirrorvan)"
+ },
+ {
+  "english": "He parked his car in front of the building.",
+  "chinese": "他把车停在大楼前。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #299044 (CK) & #333907 (fucongcong)"
+ },
+ {
+  "english": "He does nothing but complain from morning till night.",
+  "chinese": "他从早到晚只是在抱怨。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #301581 (CK) & #462024 (fucongcong)"
+ },
+ {
+  "english": "I looked after him for a period of time.",
+  "chinese": "我看了他一段时间。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1538985 (SHamp) & #463893 (fucongcong)"
+ },
+ {
+  "english": "Watch out for cars when you cross the street.",
+  "chinese": "当你过马路的时候要当心汽车。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #280495 (CM) & #874487 (Martha)"
+ },
+ {
+  "english": "There are a lot of eggs in the box.",
+  "chinese": "这个盒子里有很多蛋。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #44471 (CK) & #784200 (fucongcong)"
+ },
+ {
+  "english": "The talks will deal with the problem of pollution.",
+  "chinese": "这场谈论即将对污染问题展开讨论。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2163176 (Source_VOA) & #2581516 (fenfang557)"
+ },
+ {
+  "english": "Please write to me about conditions at your school.",
+  "chinese": "请写信告诉我你们学校的情况。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #50765 (CM) & #332602 (fucongcong)"
+ },
+ {
+  "english": "I walk my dog in the park every morning.",
+  "chinese": "我每天早上到公园里遛狗。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #322376 (CK) & #334688 (fucongcong)"
+ },
+ {
+  "english": "I'll be staying here for another three days.",
+  "chinese": "我会在这儿再待上三天。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #255791 (CK) & #792820 (fucongcong)"
+ },
+ {
+  "english": "I can't find anything wrong with his theory.",
+  "chinese": "我在他的理论中找不到任何问题。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #755198 (sctld) & #5688986 (xjjAstrus)"
+ },
+ {
+  "english": "I don't like to talk about my past.",
+  "chinese": "我不喜欢提我的过去。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6662286 (CK) & #13598234 (LeviHighway)"
+ },
+ {
+  "english": "I don't plan to stay for very long.",
+  "chinese": "我没有打算停留太久。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5848329 (CK) & #6633881 (verdastelo9604)"
+ },
+ {
+  "english": "He divided one million dollars among his five sons.",
+  "chinese": "他把一百万美元分给他五个儿子。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #288347 (CK) & #10449675 (GlossaMatik)"
+ },
+ {
+  "english": "There are more girls than boys at our school.",
+  "chinese": "在我们学校里女孩比男孩多。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2975888 (KiwiCreme) & #6119448 (verdastelo9604)"
+ },
+ {
+  "english": "There are a lot of flowers in this garden.",
+  "chinese": "这个花园里有很多花。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10717891 (carlosalberto) & #13561235 (LeviHighway)"
+ },
+ {
+  "english": "He will not be able to do the work.",
+  "chinese": "他没能力做这个工作。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #290813 (CK) & #791357 (fucongcong)"
+ },
+ {
+  "english": "I am waiting for you to finish your homework.",
+  "chinese": "我等你把作业做完。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6007736 (szilviez) & #6000436 (xjjAstrus)"
+ },
+ {
+  "english": "There are a lot of people in the park.",
+  "chinese": "公园里有很多人。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1109697 (Leedihuzur) & #332847 (fucongcong)"
+ },
+ {
+  "english": "There seemed to be no answer to the problem.",
+  "chinese": "这个问题似乎没有答案。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #807516 (Source_VOA) & #2048829 (sadhen)"
+ },
+ {
+  "english": "I always rely on him in times of trouble.",
+  "chinese": "我在困难时总是依赖他。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #412768 (blay_paul) & #6095969 (verdastelo9604)"
+ },
+ {
+  "english": "I don't want something like this to happen.",
+  "chinese": "我不想这种事发生。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #432771 (aliene) & #335050 (fucongcong)"
+ },
+ {
+  "english": "Fruits and vegetables are essential to a balanced diet.",
+  "chinese": "蔬果对平衡饮食必不可少。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #2187 (Zifre) & #389929 (fucongcong)"
+ },
+ {
+  "english": "I'll provide you with all the necessary information.",
+  "chinese": "我会给你所有必要的信息。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1137222 (CK) & #6119432 (verdastelo9604)"
+ },
+ {
+  "english": "We promise you we'll never do it again.",
+  "chinese": "我们保证我们不会再做了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #7199580 (CK) & #9956675 (GlossaMatik)"
+ },
+ {
+  "english": "I'm used to staying up late at night.",
+  "chinese": "我习惯晚睡。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #261995 (CK) & #1446942 (asosan)"
+ },
+ {
+  "english": "The police assembled a lot of evidence against him.",
+  "chinese": "警察收集了很多对他不利的证据。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238343 (CK) & #784475 (fucongcong)"
+ },
+ {
+  "english": "I can't locate the source of the problem.",
+  "chinese": "我无法找到问题的根源。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1954614 (CK) & #2017436 (sadhen)"
+ },
+ {
+  "english": "We'll find some other way to do that.",
+  "chinese": "再想别的办法吧。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3312038 (CK) & #10511443 (Selina)"
+ },
+ {
+  "english": "Look in the rear-view mirror before backing up.",
+  "chinese": "倒车前先看后视镜。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #9525012 (DJ_Saidez) & #13552103 (LeviHighway)"
+ },
+ {
+  "english": "We are all longing for peace in the world.",
+  "chinese": "谁都希望世界和平。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #276550 (CK) & #2029473 (ydcok)"
+ },
+ {
+  "english": "I advise you never to live beyond your income.",
+  "chinese": "我建议你永远不要入不敷出。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #238531 (CM) & #334848 (fucongcong)"
+ },
+ {
+  "english": "You don't need to prepare a formal speech.",
+  "chinese": "您没必要准备一个正式的演讲。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #472094 (CK) & #472843 (fucongcong)"
+ },
+ {
+  "english": "I picked up a pretty shell at the seaside.",
+  "chinese": "我在海边捡了个漂亮贝壳。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #500169 (blay_paul) & #5911660 (verdastelo9604)"
+ },
+ {
+  "english": "I hope everything will be fine in the end.",
+  "chinese": "我希望最后一切都好。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #1211540 (alec) & #333980 (fucongcong)"
+ },
+ {
+  "english": "The quick brown fox jumps over the lazy dog.",
+  "chinese": "身手矫健的棕狐狸跃过懒洋洋的狗。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #558035 (mujtaba) & #13569214 (LeviHighway)"
+ },
+ {
+  "english": "More and more people are moving to urban areas.",
+  "chinese": "越来越多的人迁往市区。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #32789 (CM) & #6325051 (verdastelo9604)"
+ },
+ {
+  "english": "There are a lot of dictionaries in the bookcase.",
+  "chinese": "书架上放着很多字典。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #10551512 (sundown) & #9989899 (GlossaMatik)"
+ },
+ {
+  "english": "There are a lot of eggs in the basket.",
+  "chinese": "篮子里有很多鸡蛋。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #3377945 (CK) & #3377944 (GlossaMatik)"
+ },
+ {
+  "english": "We'll be late if we don't hurry.",
+  "chinese": "再不快点就迟到了噢。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #6646072 (CK) & #5100259 (mirrorvan)"
+ },
+ {
+  "english": "I adapted the garage for use as a workshop.",
+  "chinese": "我把车库改造成车间使用。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #265636 (CM) & #389398 (fucongcong)"
+ },
+ {
+  "english": "I'll never be able to live this down.",
+  "chinese": "我绝不能忍受。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #5825770 (CK) & #8215683 (verdastelo9604)"
+ },
+ {
+  "english": "My father will retire at the age of sixty.",
+  "chinese": "我父亲六十岁就要退休了。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #318949 (CK) & #782786 (fucongcong)"
+ },
+ {
+  "english": "I'm not the least bit scared of you.",
+  "chinese": "我一点都不怕你。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #393877 (CK) & #393879 (GlossaMatik)"
+ },
+ {
+  "english": "I don't like to mix business with pleasure.",
+  "chinese": "我不喜欢把生意和快乐混在一起。",
+  "src": "CC-BY 2.0 (France) Attribution: tatoeba.org #257902 (CK) & #1785906 (sadhen)"
+ }
+]

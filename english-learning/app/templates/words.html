@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+{% block title %}单词学习 · 轻松学英语{% endblock %}
+
+{% block content %}
+<div id="words-page">
+<section class="page-head">
+  <h1>单词学习</h1>
+  <p>按任务分组从第 1 组开始学,学完自动进入下一组,进度和"单词任务"共享;也可以切到分类学习复习基础词。</p>
+</section>
+
+<!-- 学习模式切换 -->
+<div class="chips" id="word-mode-tabs">
+  <button class="chip active" data-mode="groups">按组学习</button>
+  <button class="chip" data-mode="category">分类学习</button>
+</div>
+
+<!-- ============ 模式一:按组学习(和单词任务同词库、同进度) ============ -->
+<div id="groups-mode">
+  <div class="chips" id="words-dict-tabs"><!-- JS 动态生成词库切换按钮 --></div>
+
+  <div class="task-progress">
+    <span class="task-progress-text">第 <span id="words-group-no">-</span> 组 · 已掌握 <span id="words-group-done-num">0</span> / <span id="words-group-total">0</span></span>
+    <span class="bar-track"><span class="bar-fill" id="words-group-fill"></span></span>
+  </div>
+
+  <div class="flashcard-wrap">
+    <div class="flashcard hidden" id="gcard" tabindex="0">
+      <div class="flashcard-inner">
+        <div class="flashcard-face flashcard-front">
+          <span class="badge" id="gcard-badge"></span>
+          <button class="sound-btn card-sound" id="gcard-sound-front" aria-label="朗读单词">🔊</button>
+          <div class="word-en" id="gcard-en"></div>
+          <div class="word-phonetic" id="gcard-phonetic"></div>
+          <div class="hint">点击卡片查看中文</div>
+        </div>
+        <div class="flashcard-face flashcard-back">
+          <button class="sound-btn card-sound" id="gcard-sound-back" aria-label="朗读单词">🔊</button>
+          <div class="word-cn" id="gcard-cn"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="flashcard-controls">
+    <button class="btn btn-outline" id="gbtn-prev" disabled>← 上一个</button>
+    <button class="btn btn-primary" id="gbtn-master" disabled>✓ 标记已掌握</button>
+    <span class="progress" id="gcard-progress">0 / 0</span>
+    <button class="btn btn-outline" id="gbtn-next" disabled>下一个 →</button>
+  </div>
+
+  <!-- 本组学完:自动进入下一组(按钮由 JS 生成) -->
+  <div class="task-done hidden" id="words-group-banner">
+    <p id="words-banner-text">🎉 本组学完!</p>
+    <p id="words-banner-buttons"></p>
+  </div>
+</div>
+
+<!-- ============ 模式二:分类学习(后台添加的单词,原有功能) ============ -->
+<div id="category-mode" class="hidden">
+  <div class="chips" id="category-chips"><!-- JS 动态生成分类按钮 --></div>
+
+  <div class="flashcard-wrap">
+    <div class="flashcard hidden" id="flashcard" tabindex="0">
+      <div class="flashcard-inner">
+        <div class="flashcard-face flashcard-front">
+          <span class="badge" id="card-category"></span>
+          <button class="sound-btn card-sound" id="card-sound-front" aria-label="朗读单词">🔊</button>
+          <div class="word-en" id="card-en"></div>
+          <div class="word-phonetic" id="card-phonetic"></div>
+          <div class="hint">点击卡片查看中文</div>
+        </div>
+        <div class="flashcard-face flashcard-back">
+          <button class="sound-btn card-sound" id="card-sound-back" aria-label="朗读单词">🔊</button>
+          <div class="word-cn" id="card-cn"></div>
+          <div class="example" id="card-example"></div>
+          <div class="example-cn" id="card-example-cn"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="flashcard-controls">
+    <button class="btn btn-outline" id="btn-prev" disabled>← 上一个</button>
+    <span class="progress" id="card-progress">0 / 0</span>
+    <button class="btn btn-primary" id="btn-next" disabled>下一个 →</button>
+  </div>
+
+  <div class="empty-tip hidden" id="words-empty">这个分类还没有单词,去后台添加一些吧。</div>
+</div>
+</div>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "admin/base.html" %}
+{% block title %}用户管理{% endblock %}
+{% block page_title %}用户管理{% endblock %}
+
+{% block content %}
+<div class="table-wrap">
+  <table class="table">
+    <thead>
+      <tr><th>ID</th><th>用户名</th><th>注册时间</th><th>最后登录</th><th>已掌握单词</th><th>状态</th><th>操作</th></tr>
+    </thead>
+    <tbody id="user-tbody">
+      <tr><td colspan="7" class="empty-tip">加载中…</td></tr>
+    </tbody>
+  </table>
+</div>
+{% endblock %}

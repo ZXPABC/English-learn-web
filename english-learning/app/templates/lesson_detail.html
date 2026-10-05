@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}{{ lesson.title }} · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <a class="back-link" href="/lessons">← 返回课程列表</a>
+  <h1>{{ lesson.title }}</h1>
+  {% if lesson.summary %}<p>{{ lesson.summary }}</p>{% endif %}
+</section>
+
+<div class="lesson-body">
+  <article class="lesson-text">
+    <h2>英文原文</h2>
+    <p class="pre-line">{{ lesson.content }}</p>
+  </article>
+  <article class="lesson-text">
+    <h2>中文翻译</h2>
+    <p class="pre-line">{{ lesson.content_cn }}</p>
+  </article>
+</div>
+{% endblock %}

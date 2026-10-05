@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}听力训练 · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <h1>听力训练</h1>
+  <p>听英文句子,从中文里选出正确意思(难度参考英语四级听力);每道题答完后展示完整听力原文,可以对照原文再听一遍。题库 1000 题,50 题一组,选组训练一轮做完一整组,完成后该组打上 ✓ 已完成。</p>
+</section>
+
+<div class="quiz-box" id="listening-box">
+  <!-- 开始界面:选组 -->
+  <div class="quiz-start" id="listen-start">
+    <p>先选择题目范围,再开始训练:</p>
+    <div class="quiz-group-chips" id="listen-group-chips"></div>
+    <p id="listen-round-hint">全部随机:随机抽 10 题,听音选意。</p>
+    <button class="btn btn-primary" id="btn-listen-start">开始训练</button>
+  </div>
+
+  <!-- 答题界面 -->
+  <div class="quiz-question hidden" id="listen-question">
+    <div class="quiz-meta">
+      <span>第 <span id="listen-index">1</span> / <span id="listen-total">10</span> 题</span>
+      <span id="listen-group-name"></span>
+      <span>得分 <span id="listen-score">0</span></span>
+    </div>
+    <div class="listen-player">
+      <p class="listen-tip">🔊 请听句子,选出正确的中文意思(不会显示英文)</p>
+      <button class="btn btn-primary" id="btn-listen-play">🔊 播放句子</button>
+      <button class="btn btn-sm btn-outline" id="btn-listen-replay">再听一遍</button>
+    </div>
+    <div class="quiz-options" id="listen-options"></div>
+    <div class="quiz-feedback hidden" id="listen-feedback">
+      <p class="quiz-result" id="listen-result"></p>
+      <div class="listen-script" id="listen-script"></div>
+      <button class="btn btn-primary" id="btn-listen-next">下一题</button>
+    </div>
+  </div>
+
+  <!-- 结束界面 -->
+  <div class="quiz-end hidden" id="listen-end">
+    <div class="quiz-end-score" id="listen-final-score"></div>
+    <p id="listen-final-message"></p>
+    <div class="quiz-end-buttons">
+      <button class="btn btn-primary hidden" id="btn-listen-redo-wrong">重做错题</button>
+      <button class="btn btn-outline" id="btn-listen-restart">再来一轮</button>
+      <button class="btn btn-outline" id="btn-listen-back-groups">换一组</button>
+    </div>
+  </div>
+</div>
+{% endblock %}

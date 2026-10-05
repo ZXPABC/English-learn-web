@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+{% block title %}首页 · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>轻松学英语</h1>
+  <p>从单词开始,每天进步一点点。适合初中水平的英语学习网站。</p>
+  <div class="hero-actions">
+    <a class="btn btn-primary" href="/words">开始学单词</a>
+    <a class="btn btn-outline" href="/quiz">来一场测验</a>
+  </div>
+</section>
+
+<section class="stats">
+  <div class="stat-tile">
+    <span class="stat-value">{{ word_count }}</span>
+    <span class="stat-label">单词总数</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ lesson_count }}</span>
+    <span class="stat-label">课程总数</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ category_count }}</span>
+    <span class="stat-label">单词分类</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ quiz_total }}</span>
+    <span class="stat-label">句子测验题库</span>
+  </div>
+  <div class="stat-tile">
+    <span class="stat-value">{{ listening_total }}</span>
+    <span class="stat-label">听力题库</span>
+  </div>
+</section>
+
+<section class="how">
+  <h2>怎么学?</h2>
+  <div class="how-grid">
+    <div class="how-card">
+      <div class="how-num">1</div>
+      <h3>背单词</h3>
+      <p>用单词卡片反复看、反复记,先看英文想中文。</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">2</div>
+      <h3>做测验</h3>
+      <p>看英文句子选中文,1000 道题 50 题一组,自选分组检验学习效果。</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">3</div>
+      <h3>听听力</h3>
+      <p>听英文句子选中文,答完看原文,练四级听力。</p>
+    </div>
+    <div class="how-card">
+      <div class="how-num">4</div>
+      <h3>读课文</h3>
+      <p>读简单的小短文,在句子里复习学过的单词。</p>
+    </div>
+  </div>
+</section>
+{% endblock %}

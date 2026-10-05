@@ -1,0 +1,62 @@
+{% extends "admin/base.html" %}
+{% block title %}单词管理{% endblock %}
+{% block page_title %}单词管理{% endblock %}
+
+{% block content %}
+<div class="toolbar">
+  <input type="search" id="search-input" placeholder="搜索英文或中文…">
+  <select id="category-filter">
+    <option value="全部">全部分类</option>
+    {% for c in categories %}<option value="{{ c }}">{{ c }}</option>{% endfor %}
+  </select>
+  <button class="btn btn-primary" id="btn-add">+ 添加单词</button>
+</div>
+
+<div class="table-wrap">
+  <table class="table">
+    <thead>
+      <tr><th>ID</th><th>英文</th><th>中文</th><th>音标</th><th>分类</th><th>操作</th></tr>
+    </thead>
+    <tbody id="word-tbody">
+      <tr><td colspan="6" class="empty-tip">加载中…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 添加/编辑单词对话框 -->
+<dialog id="word-dialog">
+  <form id="word-form" autocomplete="off">
+    <h2 id="dialog-title">添加单词</h2>
+    <input type="hidden" name="id" id="word-id">
+    <div class="form-row">
+      <label>英文
+        <input name="english" required placeholder="apple">
+      </label>
+      <label>中文
+        <input name="chinese" required placeholder="苹果">
+      </label>
+    </div>
+    <div class="form-row">
+      <label>音标
+        <input name="phonetic" placeholder="/ˈæpl/">
+      </label>
+      <label>分类
+        <input name="category" list="category-list" placeholder="食物">
+      </label>
+    </div>
+    <datalist id="category-list">
+      {% for c in categories %}<option value="{{ c }}"></option>{% endfor %}
+    </datalist>
+    <label>英文例句
+      <textarea name="example" rows="2" placeholder="I eat an apple every day."></textarea>
+    </label>
+    <label>例句翻译
+      <textarea name="example_cn" rows="2" placeholder="我每天吃一个苹果。"></textarea>
+    </label>
+    <div class="dialog-actions">
+      <button type="button" class="btn btn-outline" id="btn-cancel">取消</button>
+      <button type="submit" class="btn btn-primary">保存</button>
+    </div>
+  </form>
+</dialog>
+{% endblock %}

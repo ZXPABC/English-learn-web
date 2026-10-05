@@ -1,0 +1,16 @@
+# systemd 服务文件:让网站开机自启、崩溃自动重启
+# 安装位置:/etc/systemd/system/english-learning.service
+[Unit]
+Description=English Learning FastAPI App
+After=network.target
+
+[Service]
+# 工作目录和启动命令(路径按代码实际存放位置修改)
+WorkingDirectory=/opt/english-learning
+ExecStart=/opt/english-learning/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000
+# 意外退出后 3 秒自动重启
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

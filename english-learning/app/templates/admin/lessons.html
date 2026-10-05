@@ -1,0 +1,44 @@
+{% extends "admin/base.html" %}
+{% block title %}课程管理{% endblock %}
+{% block page_title %}课程管理{% endblock %}
+
+{% block content %}
+<div class="toolbar">
+  <button class="btn btn-primary" id="btn-add">+ 添加课程</button>
+</div>
+
+<div class="table-wrap">
+  <table class="table">
+    <thead>
+      <tr><th>ID</th><th>标题</th><th>简介</th><th>操作</th></tr>
+    </thead>
+    <tbody id="lesson-tbody">
+      <tr><td colspan="4" class="empty-tip">加载中…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- 添加/编辑课程对话框 -->
+<dialog id="lesson-dialog">
+  <form id="lesson-form" autocomplete="off">
+    <h2 id="lesson-dialog-title">添加课程</h2>
+    <input type="hidden" name="id" id="lesson-id">
+    <label>标题
+      <input name="title" required placeholder="自我介绍 Introduce Yourself">
+    </label>
+    <label>简介
+      <input name="summary" placeholder="用英语介绍自己">
+    </label>
+    <label>英文正文
+      <textarea name="content" rows="8" placeholder="Hello! My name is ..."></textarea>
+    </label>
+    <label>中文翻译
+      <textarea name="content_cn" rows="8" placeholder="你好!我叫……"></textarea>
+    </label>
+    <div class="dialog-actions">
+      <button type="button" class="btn btn-outline" id="btn-cancel">取消</button>
+      <button type="submit" class="btn btn-primary">保存</button>
+    </div>
+  </form>
+</dialog>
+{% endblock %}

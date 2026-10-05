@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}单词任务 · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <h1>单词任务</h1>
+  <p>选择词库开始背单词,建议每天学一组。组间没有锁定,没学完也能随时去下一组;学完的组可以点进去复习,复习不影响进度。学习进度会保存到你的账号里,换设备也能接着学。</p>
+</section>
+
+<div class="chips" id="task-dict-tabs"><!-- JS 动态生成词库切换按钮 --></div>
+
+<div class="task-overview">
+  <div class="task-overview-num" id="task-overview-num">—</div>
+  <div class="task-overview-bar"><span class="bar-track"><span class="bar-fill" id="task-overview-fill"></span></span></div>
+  <div class="task-overview-label">已掌握单词 · 共 <span id="task-total">—</span> 词,分 <span id="task-groups">—</span> 组,每组 <span id="task-group-size">—</span> 词</div>
+</div>
+
+<div class="task-group-grid" id="task-group-grid"></div>
+{% endblock %}

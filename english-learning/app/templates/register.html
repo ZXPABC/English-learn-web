@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}注册 · 轻松学英语{% endblock %}
+
+{% block content %}
+<div class="auth-card">
+  <h1>📚 创建账号</h1>
+  <p class="auth-sub">注册后学习进度会保存到你的账号里</p>
+  {% if error %}<p class="auth-error">⚠️ {{ error }}</p>{% endif %}
+  <form method="post" action="/register">
+    <input type="hidden" name="next" value="{{ next }}">
+    <label for="username">用户名</label>
+    <input type="text" id="username" name="username" required autofocus placeholder="2-20 个字符,不能有空格">
+    <label for="password">密码</label>
+    <input type="password" id="password" name="password" required placeholder="至少 6 位">
+    <label for="password2">确认密码</label>
+    <input type="password" id="password2" name="password2" required placeholder="再输入一次密码">
+    <button type="submit" class="btn btn-primary btn-block">注 册</button>
+  </form>
+  <p class="auth-hint">已经有账号?<a href="/login">去登录</a></p>
+</div>
+{% endblock %}

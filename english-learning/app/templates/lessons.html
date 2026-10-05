@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}课程 · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <h1>课程</h1>
+  <p>读一读简单的小短文,在句子里复习学过的单词。</p>
+</section>
+
+<div class="lesson-grid">
+  {% for lesson in lessons %}
+  <a class="lesson-card" href="/lessons/{{ lesson.id }}">
+    <h3>{{ lesson.title }}</h3>
+    <p>{{ lesson.summary }}</p>
+  </a>
+  {% else %}
+  <div class="empty-tip">还没有课程,管理员快去后台添加吧。</div>
+  {% endfor %}
+</div>
+{% endblock %}

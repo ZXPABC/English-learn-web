@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}轻松学英语{% endblock %}</title>
+  <link rel="stylesheet" href="/static/css/style.css?v=20261007">
+</head>
+<body>
+  <header class="navbar">
+    <div class="container nav-inner">
+      <a class="brand" href="/">📚 轻松学英语</a>
+      <div class="nav-right">
+        <nav>
+          <a href="/" class="{{ 'active' if active == 'index' }}">首页</a>
+          <a href="/words" class="{{ 'active' if active == 'words' }}">单词学习</a>
+          <a href="/quiz" class="{{ 'active' if active == 'quiz' }}">句子测验</a>
+          <a href="/listening" class="{{ 'active' if active == 'listening' }}">听力训练</a>
+          <a href="/lessons" class="{{ 'active' if active == 'lessons' }}">课程</a>
+          <a href="/tasks" class="{{ 'active' if active == 'tasks' }}">单词任务</a>
+        </nav>
+        {% if user %}
+        <span class="nav-user">👤 {{ user.username }} · <a href="/logout">退出</a></span>
+        {% else %}
+        <span class="nav-user"><a href="/login">登录</a> · <a href="/register">注册</a></span>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="container">轻松学英语 · 每天进步一点点</div>
+  </footer>
+
+  <script src="/static/js/main.js?v=20261007"></script>
+</body>
+</html>

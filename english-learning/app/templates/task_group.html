@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}第 {{ group }} 组 · {{ dict_label }} · 轻松学英语{% endblock %}
+
+{% block content %}
+<section class="page-head">
+  <a class="back-link" href="/tasks?dict={{ dict_key }}">← 返回任务列表</a>
+  <h1>{{ dict_label }} · 第 {{ group }} 组</h1>
+  <p>看单词 → 点 🔊 听发音 → 想意思 → 翻面核对,认识就点"标记已掌握"。</p>
+</section>
+
+<div class="task-progress">
+  <span class="task-progress-text">已掌握 <span id="task-group-done">0</span> / <span id="task-group-total">30</span></span>
+  <span class="bar-track"><span class="bar-fill" id="task-group-fill"></span></span>
+</div>
+
+<div class="flashcard-wrap">
+  <div class="flashcard hidden" id="task-card" tabindex="0">
+    <div class="flashcard-inner">
+      <div class="flashcard-face flashcard-front">
+        <button class="sound-btn card-sound" id="task-sound-front" aria-label="朗读单词">🔊</button>
+        <div class="word-en" id="task-en"></div>
+        <div class="word-phonetic" id="task-phonetic"></div>
+        <div class="hint">点击卡片查看中文</div>
+      </div>
+      <div class="flashcard-face flashcard-back">
+        <button class="sound-btn card-sound" id="task-sound-back" aria-label="朗读单词">🔊</button>
+        <div class="word-cn" id="task-cn"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="flashcard-controls" id="task-controls">
+  <button class="btn btn-outline" id="task-prev">← 上一个</button>
+  <button class="btn btn-primary" id="task-master">✓ 标记已掌握</button>
+  <button class="btn btn-outline" id="task-next">下一个 →</button>
+</div>
+
+<!-- 组间导航:本组没学完也可以直接去上一组/下一组 -->
+<div class="task-group-nav">
+  <button class="btn btn-outline" id="task-prev-group">← 上一组</button>
+  <span id="task-group-pos">第 {{ group }} 组</span>
+  <button class="btn btn-outline" id="task-next-group">下一组 →</button>
+</div>
+
+<div class="task-done hidden" id="task-done">
+  <p id="task-done-text">🎉 本组单词已全部掌握!</p>
+  <p class="task-done-buttons">
+    <a class="btn btn-primary" id="task-done-next" href="#">下一组 →</a>
+    <button class="btn btn-outline" id="task-review">🔁 复习本组</button>
+    <a class="btn btn-outline" href="/tasks?dict={{ dict_key }}">返回任务列表</a>
+    <button class="btn btn-outline" id="task-reset">重置本组</button>
+  </p>
+</div>
+{% endblock %}
